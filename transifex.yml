@@ -4,4 +4,4 @@ git:
     file_format: PO
     source_language: en
     source_file_dir: githubtest/example.po
-    translation_files_expression: 'Translations/<lang>'
+    translation_files_expression: Translations/<lang>
