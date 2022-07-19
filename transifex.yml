@@ -3,5 +3,5 @@ git:
     - filter_type: file
       file_format: PO
       source_language: en
-      source_file: githubtest/example.po
+      source_file: example.po
       translation_files_expression: 'githubtest/translations/<lang>/'
