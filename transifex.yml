@@ -1,7 +1,7 @@
 git:
   filters:
   - filter_type: dir
-    file_format: 
+    file_format: STRINGS
     source_file: git-test/
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
