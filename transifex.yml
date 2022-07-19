@@ -1,8 +1,7 @@
 git:
   filters:
-    - filter_type: dir
-      file_format: KEYVALUEJSON
-      source_file_extension: json
-      source_language: en
-      source_file_dir: localization_project/
-      translation_files_expression: 'localization_project/translations/<lang>/'
+  - filter_type: file
+    file_format: PO
+    source_file: locale/example.po
+    source_language: en
+    translation_files_expression: 'Translations/<lang>/'
