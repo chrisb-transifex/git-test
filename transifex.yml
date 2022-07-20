@@ -10,5 +10,5 @@ git:
       file_format: XML
       source_file_extension: xml
       source_language: en
-      source_file_dir: 'https://github.com/chrisb-transifex/git-test/edit/devel/'
+      source_file_dir: 'https://github.com/chrisb-transifex/git-test/blob/devel/'
       translation_files_expression: 'githubtest/translations/<lang>/'
