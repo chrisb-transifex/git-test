@@ -1,9 +1,9 @@
 git:
   filters:
     - filter_type: file
-      file_format: PO
+      file_format: XML
       source_language: en
-      source_file: example.po
+      source_file: example_android.xml
       translation_files_expression: 'githubtest/translations/<lang>/'
       
     - filter_type: dir
