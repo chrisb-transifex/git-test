@@ -10,5 +10,5 @@ git:
       file_format: KEYVALUEJSON
       source_file_extension: json
       source_language: en
-      source_file_dir: /git-test/
+      source_file_dir: git-test/
       translation_files_expression: 'githubtest/translations/<lang>/'
