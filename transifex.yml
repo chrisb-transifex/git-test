@@ -1,7 +1,7 @@
 git:
   filters:
-    - filter_type: file
-      file_format: HTML
+    - filter_type: dir
+      file_format: PO
       source_language: en
-      source_file: example.html
+      source_file_dir: '../'
       translation_files_expression: 'githubtest/translations/<lang>/'
