@@ -5,9 +5,7 @@ git:
       source_language: en
       source_file: example.po
       translation_files_expression: 'githubtest/translations/<lang>/'
-
-git:
-  filters:
+      
     - filter_type: dir
       file_format: JSON
       source_language: en
