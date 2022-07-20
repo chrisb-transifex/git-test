@@ -4,5 +4,5 @@ git:
       file_format: HTML
       source_file_extension: html
       source_language: en
-      source_file_dir: " /"
+      source_file_dir: ../git-test/
       translation_files_expression: 'githubtest/translations/<lang>/'
