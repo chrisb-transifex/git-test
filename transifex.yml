@@ -7,8 +7,8 @@ git:
       translation_files_expression: 'githubtest/translations/<lang>/'
       
     - filter_type: dir
-      file_format: STRINGS
-      source_file_extension: strings
+      file_format: XML
+      source_file_extension: xml
       source_language: en
       source_file_dir: /git-test/blob/devel/
       translation_files_expression: 'githubtest/translations/<lang>/'
