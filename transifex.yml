@@ -7,7 +7,8 @@ git:
       translation_files_expression: 'githubtest/translations/<lang>/'
       
     - filter_type: dir
-      file_format: JSON
+      file_format: KEYVALUEJSON
+      source_file_extension: json
       source_language: en
-      source_file_dir: /
+      source_file_dir: githubtest/
       translation_files_expression: 'githubtest/translations/<lang>/'
