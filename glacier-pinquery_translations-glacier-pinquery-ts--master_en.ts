@@ -11,7 +11,7 @@
         <location filename="../src/qml/PinEntry.qml" line="55"/>
         <location filename="../src/qml/PinEntry.qml" line="55"/>
         <source>(%n  attempt(s) left)</source>
-        <translation>%n attempt</translation>
+        <translation><numerusform>You have %n new video(s)</numerusform><numerusform>You have %n new video(s)</numerusform></translation>
     </message>
     <message numerus="yes">
         <location filename="src/qml/PinEntry.qml" line="55"/>
