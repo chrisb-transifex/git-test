@@ -4,5 +4,5 @@ git:
       file_format: QT
       source_file_extension: ts
       source_language: en
-      source_file_dir:
+      source_file:
       translation_files_expression: 'githubtest/translations/<lang>/'
