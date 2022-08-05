@@ -11,7 +11,7 @@
         <location filename="../src/qml/PinEntry.qml" line="55"/>
         <location filename="../src/qml/PinEntry.qml" line="55"/>
         <source>(%n  attempt(s) left)</source>
-        <translation>%n attempt</translation><translation>5n attempts</translation>
+        <translation>%n attempt</translation><translation>%n attempts</translation>
     </message>
     <message numerus="yes">
         <location filename="src/qml/PinEntry.qml" line="55"/>
