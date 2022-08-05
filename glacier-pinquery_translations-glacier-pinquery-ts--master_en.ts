@@ -7,7 +7,7 @@
         <source>PIN not required</source>
         <translation>PIN not required</translation>
     </message>
-    <message>
+    <message numerus ="yes">
         <location filename="../src/qml/PinEntry.qml" line="55"/>
         <location filename="../src/qml/PinEntry.qml" line="55"/>
         <source>(%n  attempt(s) left)</source>
