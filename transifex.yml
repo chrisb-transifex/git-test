@@ -1,8 +1,8 @@
 git:
   filters:
-    - filter_type: dir
-      file_format: HTML
-      source_file_extension: html
+    - filter_type: file
+      file_format: QT
+      source_file_extension: ts
       source_language: en
       source_file_dir: content/
       translation_files_expression: 'githubtest/translations/<lang>/'
