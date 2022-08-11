@@ -1,7 +1,7 @@
 git:
   filters:
     - filter_type: file
-      file_format: HTML
+      file_format: STRINGS
       source_language: en
-      source_file: example.html
+      source_file: for_translation_member-app-native-ios_sats-memberapp-resources-localization-en-lproj-localizable-strings--main_fi.strings
       translation_files_expression: 'githubtest/translations/<lang>/'
