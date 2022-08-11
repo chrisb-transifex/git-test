@@ -1,7 +1,7 @@
 git:
   filters:
     - filter_type: file
-      file_format: QT
+      file_format: HTML
       source_language: en
-      source_file: glacier-pinquery_translations-glacier-pinquery-ts--master_en.ts
+      source_file: example.html
       translation_files_expression: 'githubtest/translations/<lang>/'
