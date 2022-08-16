@@ -5,3 +5,10 @@ git:
       source_language: en
       source_file: test.strings
       translation_files_expression: 'githubtest/translations/<lang>/'
+
+  filters:
+    - filter_type: file
+      file_format: STRINGS
+      source_language: en
+      source_file: test2.strings
+      translation_files_expression: 'githubtest/translations/<lang>/'
