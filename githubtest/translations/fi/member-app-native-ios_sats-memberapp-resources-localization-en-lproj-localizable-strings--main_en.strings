@@ -1,4 +1,4 @@
-﻿﻿/* No comment provided by engineer. */
+/* No comment provided by engineer. */
 " %@" = "%@";
 
 /* Text which shows the number of gift cards received and how many in total are available. %1$d = Number of gift cards received, %2$d = Maximum number of gift cards. */
