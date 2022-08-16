@@ -1,0 +1,2519 @@
+﻿﻿/* No comment provided by engineer. */
+" %@" = "%@";
+
+/* Text which shows the number of gift cards received and how many in total are available. %1$d = Number of gift cards received, %2$d = Maximum number of gift cards. */
+"%1$d/%2$d gift cards" = "%1$d/%2$d gavekort";
+
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* GX Booking attending friends text (%@ = name of friend 1 and friend 2) */
+"%@ and %@ booked" = "%1$@ og %2$@ bookede";
+
+/* GX Booking attending friends text (%@ = friend's name) */
+"%@ booked" = "%@ reserveret";
+
+/* Message when accepting a follower that you already follow */
+"%@ can now see your activities, if you have chosen to share them" = "%@ kan nu se dine aktiviteter, hvis du har valgt at dele dem";
+
+/* Follower accepted request message (%@ = requestee's name) */
+"%@ can now see your activities, if you have chosen to share them." = "%@ kan nu se dine aktiviteter, hvis du har valgt at dele dem.";
+
+/* Message when accepting a follower that you can follow back */
+"%@ can now see your activities, if you have chosen to share them. To see your followers activities, you have to send a follow request back" = "%@ kan nu se dine aktiviteter, hvis du har valgt at dele dem. For at se dine følgers aktiviteter skal du sende en følgeanmodning tilbage";
+
+/* Follower accepted request message, but not yet following back message (%@ = requestee's name) */
+"%@ can now see your activities, if you have chosen to share them. To see your followers activities, you have to send a follow request back." = "%@ kan nu se dine aktiviteter, hvis du har valgt at dele dem. For at se dine følgers aktiviteter skal du sende en følgeanmodning tilbage.";
+
+/* Empty result message for friend's training (%@ = friend's name) */
+"%@ has no upcoming training events." = "%@ har ingen kommende træningsbegivenheder.";
+
+/* Member profile workout status (no workouts yet) */
+"%@ hasn't worked out yet this week" = "%@ har ikke fungeret endnu i denne uge";
+
+/* Distance in kilometers between user and club. %@ = Number of kilometers. */
+"%@ km away" = "%@ km væk";
+
+/* Benefit title (%@ = level, example: 'blue level') */
+"%@ level" = "%@ level";
+
+/* Title for rewards list for your level (%@ = name of your level) */
+"%@ level!" = "%@ niveau!";
+
+/* Member profile workout status (>1 workouts, %d = number of workouts) */
+"%@ worked out %d times this week" = "%1$@ trænede %2$d gange i denne uge";
+
+/* Member profile workout status (1 workout and weekend) */
+"%@ worked out once this week" = "%@ trænet én gang i denne uge";
+
+/* Upcoming training title, friend's training (%@ = friend's name) */
+"%@'s upcoming training" = "%@s kommende træning";
+
+/* No comment provided by engineer. */
+"%@/%@" = "%1$@/%2$@";
+
+/* Number of PT clips that are available for booking, %d is the number of clips */
+"%d available for booking" = "%d tilgængelig for booking";
+
+/* GX Booking attending friends text (%d = number of friends who have booked) */
+"%d booked" = "%d reserveret";
+
+/* Number of check ins at sats locations (%d is the actual number) */
+"%d Check Ins" = "%d Check Ins";
+
+/* Personal trainer clip card days left (%d = number of days) */
+"%d days left" = "%d dage tilbage";
+
+/* Profile number of followers button (%d = number of followers) */
+"%d followers" = "%d followers";
+
+/* Profile number of following button (%d = number of following) */
+"%d following" = "%d following";
+
+/* Describes the number of followees attending a group exercise. %d = number of friends. */
+"%d friends" = "%d friends";
+
+/* Number of days the user has been a member (%d is the actual number) */
+"%d member days" = "%d member days";
+
+/* Duration in minutes format (%d = minutes) */
+"%d min" = "%d min";
+
+/* Number of friends in waiting list for GX (%d = friend count)
+   Waitinglist position */
+"%d on waitinglist" = "%d on waitinglist";
+
+/* GX booking number of people on waitlist (%d = people count)
+   Message about the amount of people currently on waitlist (%d is amount)
+   Waitlist message (%d = number of people in waitlist) */
+"%d on waitlist" = "%d on waitlist";
+
+/* Personal trainer available clips (%d/%d = clips count e.g. 2/4) */
+"%d/%d available" = "%1$d/%2$d available";
+
+/* Relation of check ins to achieve the next level (example: '337/500 Check Ins') */
+"%d/%d Check Ins" = "%1$d/%2$d Check Ins";
+
+/* Comparison of member days needed for the next level (example: '40/100 member days') */
+"%d/%d member days" = "%1$d/%2$d member days";
+
+/* Total gift card value. %i = Total value, %@ = Currency. */
+"%i %2$@ total" = "%i %2$@ total";
+
+/* MGM total reward value. %i = total reward, %@ = currency. */
+"%i %@ total" = "%1$i %2$@ total";
+
+/* Fraction of available clips for a given clip card. */
+"%i/%i available" = "%1$i/%2$i available";
+
+/* Number of acquired gift cards. %i = acquired gift cards, %i = maximum number of gift cards. */
+"%i/%i gift cards" = "%1$i/%2$i gift cards";
+
+/* No comment provided by engineer. */
+"(%@)" = "(%@)";
+
+/* No comment provided by engineer. */
+"* Feature flag with local override" = "* Feature flag with local override";
+
+/* No comment provided by engineer. */
+"* This override is local only, not synced with the backend" = "* This override is local only, not synced with the backend";
+
+/* MGM gift card reward disclaimer text. */
+"*This is a temporary offer and might change in the future" = "*This is a temporary offer and might change in the future";
+
+/* Profile number of followers button when follower count is 0 */
+"- followers" = "- followers";
+
+/* Profile number of following when following count is 0 */
+"- following" = "- following";
+
+/* MGM recruitment reward. %.0f = gift card value, %@ gift card currency. */
+"1 new friend = 1 gift card à %.0f %@" = "1 new friend = 1 gift card à %1$.0f %2$@";
+
+/* Activity average period: 12 months */
+"12 months" = "12 months";
+
+/* Activity average period: 30 days */
+"30 days" = "30 days";
+
+/* Activity average period: 6 months */
+"6 months" = "6 months";
+
+/* Activity reaction text when one person has reacted. The <bold> tags should surround %@, and %@ = a person's name */
+"<bold>%@</bold> said awesome!" = "<bold>%@</bold> said awesome!";
+
+/* Activity reaction text when more than one person has reacted. The <bold> tags should surround %d people, and %d = the number of reactions */
+"<bold>%d people</bold> said awesome!" = "<bold>%d people</bold> said awesome!";
+
+/* Profile page upcoming training gx class booking status */
+"<bold>%d/%d</bold> booked" = "<bold>%1$d/%2$d</bold> booked";
+
+/* GX Booking state text (%d = number of people in the waiting list
+   GX upcoming training (%d = number of people in the waiting list
+   Profile page upcoming training (%d = number of people in the waiting list
+   Profile page upcoming training gx class booking status (%d = number of people in the waiting list */
+"<bold>%d</bold> people on the waiting list" = "<bold>%d</bold> people on the waiting list";
+
+/* GX Booking probability text for participation when entering a waiting list. */
+"<bold>Good</bold> chance for a spot" = "<bold>Good</bold> chance for a spot";
+
+/* GX Booking probability text for participation when entering a waiting list. */
+"<bold>Little</bold> chance for a spot" = "<bold>Little</bold> chance for a spot";
+
+/* GX Booking probability text for participation when entering a waiting list. */
+"<bold>Medium</bold> chance for a spot" = "<bold>Medium</bold> chance for a spot";
+
+/* Activity reaction text when you are the only who has reacted. The <bold> tags should surround You */
+"<bold>You</bold> said awesome!" = "<bold>You</bold> said awesome!";
+
+/* Scan QR code to send follow request success message */
+"A follow request was successfully sent" = "A follow request was successfully sent";
+
+/* About section title
+   Section title to class details for Gx */
+"About" = "About";
+
+/* Action to accept a follow request */
+"Accept" = "Accept";
+
+/* Accept without social functions button label in Onboarding terms and conditions */
+"accept without social functions" = "accept without social functions";
+
+/* Error banner message */
+"Access to calendar is denied" = "Access to calendar is denied";
+
+/* Calendar access error message */
+"Access to the calendar is not granted" = "Access to the calendar is not granted";
+
+/* Activity averages module name */
+"acitivy averages history" = "acitivy averages history";
+
+/* Action to make something operational. */
+"Activate" = "Activate";
+
+/* Button action title to enable social
+   Button text for user in following scene who has disabled all social features. */
+"activate" = "activate";
+
+/* Message in top story to activate location services to see nearby clubs. */
+"Activate \"Location services\" to see clubs nearby." = "Activate \"Location services\" to see clubs nearby.";
+
+/* Title when looking at my followers/followees list without social enabled */
+"Activate Social Experience" = "Activate Social Experience";
+
+/* Title for user in Following scene who has disabled all social features. */
+"activate social experience" = "activate social experience";
+
+/* Message to let know users that they can enable social */
+"Activate Social, and start following your frieds to see their upcoming training" = "Activate Social, and start following your frieds to see their upcoming training";
+
+/* Activate social description */
+"Activate Social, and start following your friends to see their upcoming training." = "Activate Social, and start following your friends to see their upcoming training.";
+
+/* Description for user in Following scene who has disabled all social features. */
+"activate Social, and start following your friends to see their upcoming training." = "activate Social, and start following your friends to see their upcoming training.";
+
+/* Activity scene title
+   An event like completing a workout or a challlenge.
+   Liked list title */
+"Activity" = "Activity";
+
+/* Graph color definition text for club visitor graph. */
+"Actual visits" = "Actual visits";
+
+/* GX booking save search */
+"Add as new favourite search" = "Add as new favourite search";
+
+/* Calender settings toggle title for add bookings to calendar */
+"Add bookings to calendar" = "Add bookings to calendar";
+
+/* Onboarding title */
+"Add own training outside of the gym" = "Add own training outside of the gym";
+
+/* Action for adding an event to the calendar */
+"Add to calendar" = "Add to calendar";
+
+/* Add own training title */
+"add training" = "add training";
+
+/* Add own training title
+   Profile add own training button */
+"Add your own training" = "Add your own training";
+
+/* GX Booking added to calendar prompt text */
+"Added to calendar" = "Added to calendar";
+
+/* Member address */
+"Address" = "Address";
+
+/* Instructions to actually create a GX class search
+   Instructions to create a PT appointment search */
+"Adjust filters to find group sessions" = "Adjust filters to find group sessions";
+
+/* Instructions on how to get better search results */
+"Adjust filters to get better results" = "Adjust filters to get better results";
+
+/* Booking empty search result description */
+"Adjust filters to get better results." = "Adjust filters to get better results.";
+
+/* Filter option for time of day to search a GX class */
+"Afternoon" = "Afternoon";
+
+/* All in a collection. */
+"All" = "All";
+
+/* Section title for all clubs in gx
+   Section title for all clubs in PT */
+"All clubs" = "All clubs";
+
+/* Privacy confirmation alert message */
+"All your friend requests, likes and comments will be deleted. It is not possible to retrieve them later" = "All your friend requests, likes and comments will be deleted. It is not possible to retrieve them later";
+
+/* Error banner message (%@ = error message */
+"An error has occurred: %@" = "An error has occurred: %@";
+
+/* Error screen title */
+"An error occurred" = "An error occurred";
+
+/* Error banner message */
+"An internal application error has occurred, please try again" = "An internal application error has occurred, please try again";
+
+/* Error banner message */
+"An internal error has occurred, please try again" = "An internal error has occurred, please try again";
+
+/* Default api error explanation */
+"An unexpected error occured." = "An unexpected error occured.";
+
+/* Error banner message */
+"An unknown error has occurred" = "An unknown error has occurred";
+
+/* Generic error message when an unknown error occurs */
+"An unknown error occured, please try again and contact service desk if the problem persists." = "An unknown error occured, please try again and contact service desk if the problem persists.";
+
+/* Api error explanation for unknown error */
+"An unknown error occured." = "An unknown error occured.";
+
+/* Friend relation state
+   Status of an incoming follow request */
+"Answer" = "Answer";
+
+/* Action sheet title when answering an incoming follow request */
+"Answer request for: %@" = "Answer request for: %@";
+
+/* Navigation title when setting up the appearance for the app
+   Settings list title */
+"Appearance" = "Appearance";
+
+/* Apply filter button title
+   Booking apply filter button
+   Button for applying a search filter */
+"Apply" = "Apply";
+
+/* No comment provided by engineer. */
+"Apply Section Demo" = "Apply Section Demo";
+
+/* Confirmation message to block someone */
+"Are you sure you want to block %@?" = "Are you sure you want to block %@?";
+
+/* PT booking confirmation prompt text */
+"Are you sure you want to book this session?\n\nNOTE: Cancellation can only be done up to 24 hours ahead." = "Are you sure you want to book this session?\n\nNOTE: Cancellation can only be done up to 24 hours ahead.";
+
+/* PT cancel confirmation prompt text */
+"Are you sure you want to cancel your PT session?\n\nNOTE: Remember to remove it from your calendar." = "Are you sure you want to cancel your PT session?\n\nNOTE: Remember to remove it from your calendar.";
+
+/* Body text of confirmation screen for changing PT. */
+"Are you sure you want to change your PT? From now on your new chosen PT will be automatically selected for future bookings." = "Are you sure you want to change your PT? From now on your new chosen PT will be automatically selected for future bookings.";
+
+/* Message of alert for confirming invitation of member to GX class. */
+"Are you sure you want to invite this member? This action cannot be undone." = "Are you sure you want to invite this member? This action cannot be undone.";
+
+/* Confirmation message to stop someone to follow me */
+"Are you sure you want to remove %@?" = "Are you sure you want to remove %@?";
+
+/* Confirmation message to stop following someone
+   Find friends alert confirmation text */
+"Are you sure you want to remove the request to follow %@?" = "Are you sure you want to remove the request to follow %@?";
+
+/* Confirmation message to stop follow someone */
+"Are you sure you want to stop following %@?" = "Are you sure you want to stop following %@?";
+
+/* GX Unbook confirmation prompt text */
+"Are you sure you want to unbook this class?" = "Are you sure you want to unbook this class?";
+
+/* No comment provided by engineer. */
+"Are you sure? You cannot undo this" = "Are you sure? You cannot undo this";
+
+/* title where user can change to a reward app icon */
+"As a %@ member you can choose a custom app icon" = "As a %@ member you can choose a custom app icon";
+
+/* No comment provided by engineer. */
+"Auth token" = "Auth token";
+
+/* Api error title for unauthorized */
+"Authentication error" = "Authentication error";
+
+/* PT Clip cards - number of available clips */
+"available for booking" = "available for booking";
+
+/* Error Category: internal error on the backend */
+"Backend Unavailable" = "Backend Unavailable";
+
+/* No comment provided by engineer. */
+"Background" = "Background";
+
+/* Network error: Bad gateway */
+"Bad gateway" = "Bad gateway";
+
+/* Api error title for bad request
+   Network error: bad request */
+"Bad request" = "Bad request";
+
+/* Text when there are no comments on an activity */
+"Be the first to comment" = "Be the first to comment";
+
+/* Login become member */
+"Become one today" = "Become one today";
+
+/* Onboarding text */
+"Been working out, but not at the gym? Add it after you completed, or schedule for the future." = "Been working out, but not at the gym? Add it after you completed, or schedule for the future.";
+
+/* Action to block a follower
+   Action to block a user */
+"Block" = "Block";
+
+/* Title of the alert to block someone */
+"Block user" = "Block user";
+
+/* Action to book a class or a session.
+   Confirm booking confirmation prompt
+   Main menu book title */
+"Book" = "Book";
+
+/* Booking confirmation prompt title (%@ = name of class/exercise) */
+"Book %@?" = "Book %@?";
+
+/* Link card title for booking a PT session */
+"Book a PT session" = "Book a PT session";
+
+/* Onboarding title */
+"Book classes and \n join challenges" = "Book classes and \n join challenges";
+
+/* PT booking confirmation prompt title */
+"Book PT session" = "Book PT session";
+
+/* Button text in PT session detail page when session is not booked. */
+"book session" = "book session";
+
+/* Button for book personal trainer session
+   Personal trainer clip card button */
+"Book session" = "Book session";
+
+/* PT Clip cards - number of booked sessions */
+"booked" = "booked";
+
+/* Booking landing page title */
+"Booking" = "Booking";
+
+/* Failure title: GX spot confirmation */
+"Booking not found" = "Booking not found";
+
+/* Buy PT Clips button text */
+"Buy" = "Buy";
+
+/* Description of clip card used for previewing PT sessions. */
+"Buy clips to book these sessions" = "Buy clips to book these sessions";
+
+/* Personal training link for buying clips */
+"Buy PT sessions" = "Buy PT sessions";
+
+/* Onboarding terms and conditions screen subtitle */
+"By using the app, you accept the following:" = "By using the app, you accept the following:";
+
+/* Calendar settings title
+   Settings list title
+   System for tracking days, weeks, months and years. */
+"Calendar" = "Calendar";
+
+/* Cannot access calendar text */
+"Calendar access is needed to add events." = "Calendar access is needed to add events.";
+
+/* Header: Confirm GX spot */
+"Can you make it?" = "Can you make it?";
+
+/* Find friends by sending invitation subtitle */
+"Can't find the person you are looking for? Send them an invitation" = "Can't find the person you are looking for? Send them an invitation";
+
+/* Action to abort a process or agreement.
+   Cancel action title for GX invitation.
+   Cancel button for comment
+   Cancel button for delete activity prompt
+   Cancel button for delete comment prompt
+   Cancel button for dismissing edit activity menu
+   Cancel button for making activity private
+   Cancel button for making activity public
+   Dismiss booking confirmation prompt
+   Dismiss GX Unbook confirmation prompt
+   Dismiss open calendar settings prompt
+   Dismiss privacy alert
+   Dismiss profile page choose picture
+   GX booking save search cancel button
+   GX booking set name of search cancel button
+   Text of cancel button in confirmation screen for changing PT. */
+"Cancel" = "Cancel";
+
+/* PT cancel confirmation prompt title */
+"Cancel booking" = "Cancel booking";
+
+/* Notification preference title for followee cancels group exercise */
+"Cancels" = "Cancels";
+
+/* Error message displayed when a member attempts to unbook a PT appointment which will occur in less than 24 hours. */
+"Cannot unbook PT appointment. The session must be cancelled 24 hours before it starts." = "Cannot unbook PT appointment. The session must be cancelled 24 hours before it starts.";
+
+/* Booking filter section */
+"Categories" = "Categories";
+
+/* Category filter title */
+"Category" = "Category";
+
+/* Challenge joined prompt title
+   Challenges -> Challenge joined confirmation */
+"Challenge joined" = "Challenge joined";
+
+/* Challenges -> Challenge left confirmation */
+"Challenge left" = "Challenge left";
+
+/* Challenge list title.
+   Home main tab title */
+"Challenges" = "Challenges";
+
+/* Text of change PT button in confirmation screen for changing PT. */
+"Change" = "Change";
+
+/* Calendar open settings prompt title */
+"Change calendar settings" = "Change calendar settings";
+
+/* Title of confirmation screen for changing PT. %@ parameter for PT fullname. */
+"Change PT to %@?" = "Change PT to %@?";
+
+/* Main menu check in title */
+"Check in" = "Check in";
+
+/* Rewards onboarding level popup button text */
+"Check your rewards" = "Check your rewards";
+
+/* Failure message: gx spot confirmation */
+"Check your upcomming classes for scheduled training" = "Check your upcomming classes for scheduled training";
+
+/* GX Booking calendar button */
+"Choose" = "Choose";
+
+/* Calender settings header for which calender to choose */
+"Choose calendar" = "Choose calendar";
+
+/* Profile page photo */
+"Choose photo" = "Choose photo";
+
+/* Personal trainer clip card button */
+"Choose PT and book" = "Choose PT and book";
+
+/* class type section title for GX booking filters
+   GX booking filter */
+"Class" = "Class";
+
+/* GX Booking confirmation title */
+"Class booked" = "Class booked";
+
+/* GX booking search result clear filter */
+"Clear" = "Clear";
+
+/* Remove all filters from the selection */
+"Clear All" = "Clear All";
+
+/* Link text to read more about vouchers */
+"Click here to read more about them" = "Click here to read more about them";
+
+/* Error Category: error from the client sending a request to the backend */
+"Client Error" = "Client Error";
+
+/* PT clips, i.e. 20/25 clips */
+"clips" = "clips";
+
+/* Booking landing page - pt clips available */
+"clips available" = "clips available";
+
+/* Message when PT clips package has expired. */
+"Clips have expired." = "Clips have expired.";
+
+/* With plural rule in localizable.stringsdict */
+"clipsExpireInDays" = "clipsExpireInDays";
+
+/* With plural rule in localizable.stringsdict */
+"clipsLeft" = "clipsLeft";
+
+/* Button title for closing feedback */
+"Close" = "Close";
+
+/* Club is closed. */
+"Closed" = "Closed";
+
+/* Text for opening hours 'closed' for this group/activity on this day */
+"closed" = "closed";
+
+/* Club closing time. @% = Closing time. */
+"Closes %@" = "Closes %@";
+
+/* When the club will close. %@ = closing time. e.g. 22:00. */
+"Closes at %@" = "Closes at %@";
+
+/* Noun for SATS workout club. */
+"club" = "club";
+
+/* A building with facilities and equipment where members can workout.
+   club section title for GX booking filters
+   GX and PT booking filter
+   GX booking filter */
+"Club" = "Club";
+
+/* A group of buildings with facilities and equipment where members can workout.
+   Club list title.
+   Gx filter title for clubs
+   Home main tab title
+   Title of nearby clubs in top story */
+"Clubs" = "Clubs";
+
+/* Clubs scene title. */
+"Clubs nearby" = "Clubs nearby";
+
+/* Notification preferences title for followee comments on activity you have commented */
+"Comment on others activity" = "Comment on others activity";
+
+/* Comment placeholder text */
+"Comment..." = "Comment...";
+
+/* Activity comments tab title
+   Notification preferences title for comments on my activity */
+"Comments" = "Comments";
+
+/* Notification preferences header for comments and likes */
+"Comments and likes" = "Comments and likes";
+
+/* MGM screen description. */
+"Commitment to a friend gives motivation" = "Commitment to a friend gives motivation";
+
+/* Challenge -> Onboarding tasks checklist title */
+"Complete these tasks" = "Complete these tasks";
+
+/* PT Clip cards - completed PT sessions */
+"completed" = "completed";
+
+/* Link to completed PT sessions text */
+"Completed PT sessions" = "Completed PT sessions";
+
+/* Personal trainer completed sessions (%d = number of completed sessions) */
+"Completed sessions (%d)" = "Completed sessions (%d)";
+
+/* Completed training module name */
+"completed training" = "completed training";
+
+/* A member's completed training sessions */
+"Completed training" = "Completed training";
+
+/* System error: conflict with a similar entity */
+"Conflict" = "Conflict";
+
+/* Section header in club profile. */
+"Contact" = "Contact";
+
+/* Settings list title */
+"Contact Member Care" = "Contact Member Care";
+
+/* Api error explanation for request timed out */
+"Could not complete request before timeout." = "Could not complete request before timeout.";
+
+/* Text displayed if filter returns no results */
+"Could not find any clubs that match your criteria." = "Could not find any clubs that match your criteria.";
+
+/* Text displayed if filter returns no results */
+"Could not find any online training that match your criteria." = "Could not find any online training that match your criteria.";
+
+/* Invite friend to SATS app localized link error */
+"Could not get the appropriate link" = "Could not get the appropriate link";
+
+/* Activity averages load error message. */
+"Could not load activity averages" = "Could not load activity averages";
+
+/* Header load error message. */
+"Could not load header" = "Could not load header";
+
+/* Rewards load error message. */
+"Could not load rewards" = "Could not load rewards";
+
+/* Upcoming training load error message. */
+"Could not load upcoming training" = "Could not load upcoming training";
+
+/* Weekly activity load error message. */
+"Could not load weekly activity" = "Could not load weekly activity";
+
+/* Erorr message when (%@ = module name) was not loaded successfully */
+"Could not load your %@" = "Could not load your %@";
+
+/* Trophy case loading failed message. */
+"Could not load your trophy case" = "Could not load your trophy case";
+
+/* Open external url error message (%@ = the url) */
+"Could not open url: %@" = "Could not open url: %@";
+
+/* Gift card credit header. */
+"Credit" = "Credit";
+
+/* Date format: Short month and year (see https://nsdateformatter.com/) */
+"d MMM" = "d MMM";
+
+/* Date format: Day, date, month and time (see https://nsdateformatter.com/) */
+"d MMM YYYY, HH:mm" = "d MMM YYYY, HH:mm";
+
+/* Date format for member since text e.g. 1 Jan 2020 */
+"d MMMM yyyy" = "d MMMM yyyy";
+
+/* Challenges missing data message */
+"Data is missing, please try again." = "Data is missing, please try again.";
+
+/* days */
+"days" = "days";
+
+/* Date formatting with plural rule in Localizable.stringsdict
+   With plural rule in localizable.stringsdict */
+"daysLeft" = "daysLeft";
+
+/* Action to decline a follow request */
+"Decline" = "Decline";
+
+/* Button title when follower declined the invitation. */
+"declined" = "declined";
+
+/* Error Category: failed to parse the response model
+   Error Category: we were not able to decode the backend response successfully */
+"Decoding Error" = "Decoding Error";
+
+/* title of the default theme option (blue) for the app */
+"Default" = "Default";
+
+/* Action to remove a resource.
+   Delete button for comment
+   Delete/Confirm button for delete activity
+   Delete/Confirm button for delete comment prompt
+   Title for deleting activity */
+"Delete" = "Delete";
+
+/* Title for delete activity prompt */
+"Delete activity?" = "Delete activity?";
+
+/* Title for delete comment prompt */
+"Delete comment?" = "Delete comment?";
+
+/* Undo banner text */
+"Deleted" = "Deleted";
+
+/* Activity details tab title
+   Challenges page section title
+   Personal Trainer Clip card title */
+"Details" = "Details";
+
+/* Home main tab title */
+"Discover" = "Discover";
+
+/* Space between two points. */
+"Distance" = "Distance";
+
+/* GX booking save search */
+"Don't save changes" = "Don't save changes";
+
+/* Action to indicate completion.
+   Dismiss follower declined prompt
+   Follower accept prompt dismiss button
+   Keyboard done button when editing textfield
+   Title for close button */
+"Done" = "Done";
+
+/* Login error due to duplicated emails in the server */
+"Duplicate emails found. Please log in with your member ID, or contact customer service" = "Duplicate emails found. Please log in with your member ID, or contact customer service";
+
+/* Duration filter title
+   Time span of an event. */
+"Duration" = "Duration";
+
+/* Challenge details from, to time format. See https://nsdateformatter.com/ */
+"E, d MMM" = "E, d MMM";
+
+/* Date format: date and time (see https://nsdateformatter.com/) */
+"E, d MMM H:mm" = "E, d MMM H:mm";
+
+/* Date format: Day, date, month and time (see https://nsdateformatter.com/) */
+"E, d MMM HH:mm" = "E, d MMM HH:mm";
+
+/* Member e-mail */
+"E-mail" = "E-mail";
+
+/* Login textfield placeholder
+   Reset password text input placeholder */
+"E-mail or Member ID" = "E-mail or Member ID";
+
+/* Filter option for time of day to search a GX class */
+"Early" = "Early";
+
+/* Edit button for comment */
+"Edit" = "Edit";
+
+/* Edit activity details button title */
+"Edit details" = "Edit details";
+
+/* Booking landing page, edit name menu item for saved search name */
+"Edit name" = "Edit name";
+
+/* Edit contact information button */
+"Edit personal details" = "Edit personal details";
+
+/* Edit own training title */
+"edit training" = "edit training";
+
+/* Date format: date and time (see https://nsdateformatter.com/) */
+"EEE H:mm" = "EEE H:mm";
+
+/* Date format: day, date and month (see https://nsdateformatter.com/) */
+"EEEE, d MMMM" = "EEEE, d MMMM";
+
+/* Own training date format (see https://nsdateformatter.com/) */
+"EEEE, d MMMM H:mm" = "EEEE, d MMMM H:mm";
+
+/* Descriptes the empty state of i.e. a list */
+"Empty" = "Empty";
+
+/* Login error message title when empty username or password */
+"Empty inputs" = "Empty inputs";
+
+/* Title when no search has been made yet */
+"Empty Search" = "Empty Search";
+
+/* More notifications enable button title */
+"Enable" = "Enable";
+
+/* More notifications disabled screen title */
+"Enable notifications" = "Enable notifications";
+
+/* Error Category: network data to be sent couldn't be encoded correctly */
+"Encoding Error" = "Encoding Error";
+
+/* Notifications list -> EventLog error when retrieving notifications title */
+"Error retrieving notifications!" = "Error retrieving notifications!";
+
+/* Filter option for time of day to search a GX class */
+"Evening" = "Evening";
+
+/* System error: an exception has occurred */
+"Exception" = "Exception";
+
+/* Action to unbook a class when I was part of the waitlist. */
+"Exit waitlist" = "Exit waitlist";
+
+/* Api error explanation for missing data error */
+"Expected data but received none." = "Expected data but received none.";
+
+/* Personal trainer clip card expired. */
+"expired" = "expired";
+
+/* With plural rule in localizable.stringsdict */
+"expireInDays" = "expireInDays";
+
+/* System error: a process has failed */
+"Failed" = "Failed";
+
+/* Generic error title when getting data */
+"Failed getting data" = "Failed getting data";
+
+/* Error banner message (%@ = error message */
+"Failed to add to calendar: %@" = "Failed to add to calendar: %@";
+
+/* Api error explanation for decode response error */
+"Failed to decode the response." = "Failed to decode the response.";
+
+/* Api error explanation for encode request error */
+"Failed to encode the request." = "Failed to encode the request.";
+
+/* Parse QR code to member id error */
+"Failed to extract member id from QR code" = "Failed to extract member id from QR code";
+
+/* QR code error message */
+"Failed to fetch the QR code" = "Failed to fetch the QR code";
+
+/* Error message on discover page for load data failure. */
+"Failed to load all content. Please try again." = "Failed to load all content. Please try again.";
+
+/* QR screen error message */
+"Failed to parse QR data" = "Failed to parse QR data";
+
+/* Login error message when authentication is successful, but getting membership info is not. */
+"Failed to retrieve the membership info, please try to log in again" = "Failed to retrieve the membership info, please try to log in again";
+
+/* QR scanner error message */
+"Failed to setup camera." = "Failed to setup camera.";
+
+/* GX Saved search title */
+"Favourite searches" = "Favourite searches";
+
+/* No comment provided by engineer. */
+"Feature Flags" = "Feature Flags";
+
+/* Placeholder text for class type filter search */
+"Filter classes" = "Filter classes";
+
+/* Placeholder text when searching for clubs filters */
+"Filter clubs" = "Filter clubs";
+
+/* Placeholder text when searching within the instructor filters */
+"Filter instructor" = "Filter instructor";
+
+/* Onboarding title */
+"Find and follow \n your friends" = "Find and follow \n your friends";
+
+/* Club list title
+   Main menu clubs title */
+"Find clubs" = "Find clubs";
+
+/* Find friends by contact list subtitle */
+"Find contacts with the SATS app" = "Find contacts with the SATS app";
+
+/* Title of the button to find followers */
+"find followers" = "find followers";
+
+/* Find friends button */
+"Find friends" = "Find friends";
+
+/* Button text for user in the following scene who does not follow anyone. */
+"find friends" = "find friends";
+
+/* Find friends with QR subtitle */
+"Find others by scanning their personal QR code" = "Find others by scanning their personal QR code";
+
+/* Booking landing page - Find the perfect PT card text
+   PT Clips landing page - Find the perfect PT card text */
+"Find the perfect PT for you!" = "Find the perfect PT for you!";
+
+/* Find friends by contact list title */
+"Find with contacts" = "Find with contacts";
+
+/* Find friends with QR title */
+"Find with QR" = "Find with QR";
+
+/* Find friends in SATS app title */
+"Find your friends" = "Find your friends";
+
+/* MGM label. */
+"First friend recruited at:" = "First friend recruited at:";
+
+/* No comment provided by engineer. */
+"Flags" = "Flags";
+
+/* Section title for scores for a Gx class
+   Training focus title. E.g. what the Online Training focuses on; Cardio, Strength etc. */
+"Focus" = "Focus";
+
+/* Action to request following another member.
+   Button text for follow request
+   Follower accept prompt confirm button
+   Friend relation state
+   Status of a person you don't follow
+   Title for follow back button */
+"Follow" = "Follow";
+
+/* The user can follow this profile */
+"follow" = "follow";
+
+/* Not following member message */
+"Follow %@ to see upcoming training, completed training and like activites" = "Follow %@ to see upcoming training, completed training and like activites";
+
+/* Onboarding text */
+"Follow friends to see their upcoming and completed training, or invite them to your workout." = "Follow friends to see their upcoming and completed training, or invite them to your workout.";
+
+/* Followers label in member profile */
+"followers" = "followers";
+
+/* A group of members who follow another member.
+   Title of the follower section of the follower list */
+"Followers" = "Followers";
+
+/* The user is already following this profile */
+"following" = "following";
+
+/* A member who follows another member.
+   Feed title for following feed
+   Friend relation state
+   Home main tab title
+   Label for the people you follow in member profile
+   Status for following a person
+   Status of a person you are following
+   Title of section following */
+"Following" = "Following";
+
+/* A group of members who are followed by a member. */
+"Followings" = "Followings";
+
+/* Hint for members without privilige to use links and who are interested in PT clips. */
+"For info on PT clips and PTs, ask the counter!" = "For info on PT clips and PTs, ask the counter!";
+
+/* Api error title for forbidden
+   Network error: Forbidden
+   System error: the user might not have the necessary permissions for a resource */
+"Forbidden" = "Forbidden";
+
+/* Reset password title */
+"Forgot password" = "Forgot password";
+
+/* Forgot password button in login scene */
+"Forgot password?" = "Forgot password?";
+
+/* Day of week. */
+"Friday" = "Friday";
+
+/* day of week */
+"friday" = "friday";
+
+/* Header title for attending friends. (%@ = the number of persons who are attending) */
+"Friends attending  •  %@" = "Friends attending  •  %@";
+
+/* Text with plural rule in localized.stringdict */
+"friendsAttendedClass" = "friendsAttendedClass";
+
+/* Number of friends attending GX with rule for plurals in Localizable.stringdict */
+"friendsAttending" = "friendsAttending";
+
+/* Gift card from friend header. */
+"From your friend" = "From your friend";
+
+/* Network error: Gateway timeout */
+"Gateway timeout" = "Gateway timeout";
+
+/* Feedback option: general */
+"General app feedback" = "General app feedback";
+
+/* Onboarding text */
+"Get a personal QR to use at the gym, and also to find and follow people easily." = "Get a personal QR to use at the gym, and also to find and follow people easily.";
+
+/* explanation text for member care */
+"Get help from Member Care or check FAQ" = "Get help from Member Care or check FAQ";
+
+/* Onboarding push notifications screen title */
+"get important updates" = "get important updates";
+
+/* Onboarding text */
+"Get inspired by the broad selection of classes, and book them in advance to secure a spot." = "Get inspired by the broad selection of classes, and book them in advance to secure a spot.";
+
+/* GX Booking confirmation add to calendar text */
+"Get reminders" = "Get reminders";
+
+/* PT Clips landing page - Get Started module title */
+"Get started" = "Get started";
+
+/* MGM screen subtitle
+   MGM screen subtitle. */
+"Get the team spirit" = "Get the team spirit";
+
+/* Send feedback message in discover. */
+"Give us feedback on the app" = "Give us feedback on the app";
+
+/* PT booking search result go back to clip cards. */
+"Go back" = "Go back";
+
+/* Confirm open calendar settings prompt
+   The button title for navigating the user to system settings. */
+"Go to settings" = "Go to settings";
+
+/* Instructions to enable themes in the app */
+"Go to settings to enable it." = "Go to settings to enable it.";
+
+/* Navigation from the rewards list to the vouchers screen */
+"go to vouchers" = "go to vouchers";
+
+/* No comment provided by engineer. */
+"Go to website" = "Go to website";
+
+/* High chance to get a spot if the user joins the waiting list for a GX class */
+"Good chance for a spot" = "Good chance for a spot";
+
+/* Profile motivation title (>1 workouts)
+   Profile motivation title (1 workout and weekend) */
+"Good job!" = "Good job!";
+
+/* Dismiss page or message */
+"Got it" = "Got it";
+
+/* Profile motivation title (1 workout and weekday) */
+"Great start!" = "Great start!";
+
+/* Booking tab title for Group class */
+"Group class" = "Group class";
+
+/* Notification preferences header for group exercises and own training */
+"Group exercise and own training" = "Group exercise and own training";
+
+/* Booking landing page service title for group traning */
+"Group training" = "Group training";
+
+/* Page title for the search results for booking */
+"Group training booking" = "Group training booking";
+
+/* Number of friends that booked a gx class */
+"gxSocialBookingsCount" = "gxSocialBookingsCount";
+
+/* Number of available spots for a class */
+"gxSpotsLeft" = "gxSpotsLeft";
+
+/* Date format: hour and minute (see https://nsdateformatter.com/) */
+"H:mm" = "H:mm";
+
+/* Relative date string */
+"Has ended" = "Has ended";
+
+/* No comment provided by engineer. */
+"Headline 1 Bold" = "Headline 1 Bold";
+
+/* No comment provided by engineer. */
+"Headline 1 Italic" = "Headline 1 Italic";
+
+/* No comment provided by engineer. */
+"Headline 1 Regular" = "Headline 1 Regular";
+
+/* No comment provided by engineer. */
+"Headline 2 Regular" = "Headline 2 Regular";
+
+/* No comment provided by engineer. */
+"Headline 3 Bold" = "Headline 3 Bold";
+
+/* Settings list title
+   Title for the help and feedback screen */
+"Help and feedback" = "Help and feedback";
+
+/* Date format: zero prefixed hour and minute (see https://nsdateformatter.com/) */
+"HH:mm" = "HH:mm";
+
+/* Notification: Title */
+"Hi! Something went wrong..." = "Hi! Something went wrong...";
+
+/* MGM recruitment message. %@ = current member fullname, %@ = recruitment link. */
+"Hi!\n\nDo you want to start working out with me? Sign up for a membership at SATS through my link so that we can work out together!\n\nSincerely\n%@\n\n%@" = "Hi!\n\nDo you want to start working out with me? Sign up for a membership at SATS through my link so that we can work out together!\n\nSincerely\n%1$@\n\n%2$@";
+
+/* Confirm button for making activity private */
+"Hide" = "Hide";
+
+/* Title for make activity private */
+"Hide activity?" = "Hide activity?";
+
+/* Title for changing privacy settings for activity when public */
+"Hide from friends" = "Hide from friends";
+
+/* Challenge completed prompt title */
+"High five!" = "High five!";
+
+/* Main menu home title */
+"Home" = "Home";
+
+/* Date formatting with plural rule in Localizable.stringsdict */
+"hoursLeft" = "hoursLeft";
+
+/* Accept button label in Onboarding terms and conditions */
+"i accept" = "i accept";
+
+/* Button: Confirm spot */
+"I CAN MAKE IT!" = "I CAN MAKE IT!";
+
+/* iOS 12 support under construction heading */
+"I'm sorry to tell you" = "I'm sorry to tell you";
+
+/* Info 2: Confirm GX spot */
+"If you show up at the gym 10 minutes before class, you will likely get a spot regardless of where you are in the queue." = "If you show up at the gym 10 minutes before class, you will likely get a spot regardless of where you are in the queue.";
+
+/* Reset password confirmation prompt text */
+"If your e-mail/Member ID exists in the system the process of resetting the password has begun. Please check your e-mail for further instructions." = "If your e-mail/Member ID exists in the system the process of resetting the password has begun. Please check your e-mail for further instructions.";
+
+/* No comment provided by engineer. */
+"Impersonate" = "Impersonate";
+
+/* No comment provided by engineer. */
+"IN" = "IN";
+
+/* Challenge list section header */
+"In progress" = "In progress";
+
+/* No comment provided by engineer. */
+"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.\n\nIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content." = "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.\n\nIn publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.";
+
+/* No comment provided by engineer. */
+"In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.\n\nLorem ipsum may be used before final copy is available, but it may also be used to temporarily replace copy in a process called greeking, which allows designers to consider form without the meaning of the text influencing the design." = "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.\n\nLorem ipsum may be used before final copy is available, but it may also be used to temporarily replace copy in a process called greeking, which allows designers to consider form without the meaning of the text influencing the design.";
+
+/* Expired PT clips package where , %@ = expiration date, i.e.: 03.02.2022 */
+"Inactive - Expired %@" = "Inactive - Expired %@";
+
+/* Title for a member's inactive PT packages */
+"Inactive PT packages" = "Inactive PT packages";
+
+/* A training professional who leads group exercise classes.
+   GX and PT booking filter
+   GX booking filter
+   Insctructor filter title
+   instructor section title for GX booking filters
+   Instructor view title
+   Section title for instructor details for Gx class */
+"Instructor" = "Instructor";
+
+/* Api error title for decode response error
+   Api error title for encode request error
+   Api error title for missing data error
+   Api error title for unknown error */
+"Internal error" = "Internal error";
+
+/* Network error: Internal server error */
+"Internal server error" = "Internal server error";
+
+/* Error screen title */
+"Internet connection lost" = "Internet connection lost";
+
+/* Error Category: emitted when failed to create URLRequest for a given endpoint */
+"Invalid Endpoint Definition" = "Invalid Endpoint Definition";
+
+/* Notification preference title for group exercise invitation */
+"Invitation to class" = "Invitation to class";
+
+/* Action to invite another member to an event.
+   Invite action title for GX invitation. */
+"Invite" = "Invite";
+
+/* Button title when follower is not invited. */
+"invite" = "invite";
+
+/* Title of alert for confirming invitation of member to GX class. */
+"Invite follower?" = "Invite follower?";
+
+/* Invite followers button title */
+"invite followers" = "invite followers";
+
+/* The modal screen title. */
+"Invite followers" = "Invite followers";
+
+/* Header title for invitable friends. */
+"Invite your followers" = "Invite your followers";
+
+/* Button title when follower is invited. */
+"invited" = "invited";
+
+/* Booking confirmation prompt text when joining a waiting list */
+"It is less than 2 hours before the class, if you get the spot, you cannot unbook." = "It is less than 2 hours before the class, if you get the spot, you cannot unbook.";
+
+/* Booking confirmation prompt text for PT-session */
+"It is less than 24 hours before the PT-session begins so you can't unbook later." = "It is less than 24 hours before the PT-session begins so you can't unbook later.";
+
+/* Booking confirmation prompt text for GX-session */
+"It is less than two hours before the class begins so you can't unbook later." = "It is less than two hours before the class begins so you can't unbook later.";
+
+/* Failure description: GX spot confirmation */
+"It seems like this class already has been unbooked" = "It seems like this class already has been unbooked";
+
+/* Booking confirmation prompt text */
+"It's less than two hours before the class begins so you can't unbook later." = "It's less than two hours before the class begins so you can't unbook later.";
+
+/* No comment provided by engineer. */
+"Item 1 Bold" = "Item 1 Bold";
+
+/* No comment provided by engineer. */
+"Item 2 Regular" = "Item 2 Regular";
+
+/* No comment provided by engineer. */
+"Item 3 Italic" = "Item 3 Italic";
+
+/* No comment provided by engineer. */
+"Item 5 Heading 1 italic" = "Item 5 Heading 1 italic";
+
+/* Join challenge button */
+"Join" = "Join";
+
+/* Join challenge button */
+"Join challenge" = "Join challenge";
+
+/* Action to book a class that has a waitlist. */
+"Join waitlist" = "Join waitlist";
+
+/* Profile friends upcoming trainings */
+"Join your friend!" = "Join your friend!";
+
+/* Notification preference title for followee joins group exercise */
+"Joins" = "Joins";
+
+/* Date representation by text */
+"Just now" = "Just now";
+
+/* Abbreviation for kilometer.
+   Abbreviation for kilometers */
+"km" = "km";
+
+/* No comment provided by engineer. */
+"Large italic" = "Large italic";
+
+/* Action to read more about a topic
+   Activity card read more */
+"Learn more" = "Learn more";
+
+/* Leave challenge button */
+"Leave" = "Leave";
+
+/* Leave challenge button */
+"Leave challenge" = "Leave challenge";
+
+/* GX booking show less filters */
+"Less" = "Less";
+
+/* Member profiling onboarding button title */
+"lets go!" = "lets go!";
+
+/* PT level
+   Title for the rewards badge in your own profile */
+"level" = "level";
+
+/* Personal trainer clip card level text (%d = level number
+   PT clip card level text (%d = level number) */
+"Level %d" = "Level %d";
+
+/* Rewards level up popup title */
+"Level up!" = "Level up!";
+
+/* Title for section with details about the different levels and rewards */
+"Levels and rewards" = "Levels and rewards";
+
+/* Notification preference title for followee reaction */
+"Likes" = "Likes";
+
+/* Settings log out button */
+"Log out" = "Log out";
+
+/* Login error title */
+"Login failed" = "Login failed";
+
+/* No comment provided by engineer. */
+"Logs" = "Logs";
+
+/* Title of club capacity filter. */
+"Lots of capacity" = "Lots of capacity";
+
+/* Low chance to get a spot if the user joins the waiting list for a GX class */
+"Low chance for a spot" = "Low chance for a spot";
+
+/* Title for make activity public */
+"Make activity public again?" = "Make activity public again?";
+
+/* Confirm button for making activity public */
+"Make public" = "Make public";
+
+/* Title for changing privacy settings for activity when private */
+"Make public again" = "Make public again";
+
+/* Main menu profile title */
+"Me" = "Me";
+
+/* Medium chance to get a spot if the user joins the waiting list for a GX class */
+"Medium chance for a spot" = "Medium chance for a spot";
+
+/* GX Booking confirmation screen reminder */
+"Meet 10 min before to get your ticket to confirm your spot!" = "Meet 10 min before to get your ticket to confirm your spot!";
+
+/* Member id text */
+"Member ID" = "Member ID";
+
+/* Length of membership
+   member since ... date */
+"Member since" = "Member since";
+
+/* Filter option for time of day to search a GX class */
+"Mid day" = "Mid day";
+
+/* Abbreviation for minute.
+   Abbreviation for minutes */
+"min" = "min";
+
+/* Date formatting with plural rule in Localizable.stringsdict */
+"minutesLeft" = "minutesLeft";
+
+/* Error Category: the backend expected data that wasn't sent
+   Error Category: there was no payload/body in the response when we expected one */
+"Missing Data" = "Missing Data";
+
+/* Date format: month abbreviation (see https://nsdateformatter.com/) */
+"MMM" = "MMM";
+
+/* Date format: Short month and year (see https://nsdateformatter.com/) */
+"MMM yyyy" = "MMM yyyy";
+
+/* Day of week. */
+"Monday" = "Monday";
+
+/* day of week */
+"monday" = "monday";
+
+/* GX booking show more filters
+   Profile more (go to settings menu)
+   Settings more title */
+"More" = "More";
+
+/* Personal trainer description title */
+"More about Personal Trainer" = "More about Personal Trainer";
+
+/* Button title in profile reward section for viewing MGM details.
+   Generic more info button */
+"More info" = "More info";
+
+/* Title for the action sheet in the followers list */
+"More Options for: %@" = "More Options for: %@";
+
+/* Filter option for time of day to search a GX class */
+"Morning" = "Morning";
+
+/* Booking filter */
+"Most attended classes" = "Most attended classes";
+
+/* Booking filter */
+"Most attended locations" = "Most attended locations";
+
+/* Add own training most popular activities header */
+"most popular" = "most popular";
+
+/* Button: Dismiss confirm spot view */
+"My pleasure!" = "My pleasure!";
+
+/* GX booking set name of search text field placeholder
+   GX booking, field to set the name of a search */
+"Name" = "Name";
+
+/* Title for help with vouchers */
+"Need help using a voucher?" = "Need help using a voucher?";
+
+/* Error Category: network error
+   Error Category: network error (like internet connection, etc) */
+"Network Error" = "Network Error";
+
+/* GX Booking confirmation add to calendar text */
+"Never forget a class you have booked! Add your bookings automatically to your calendar." = "Never forget a class you have booked! Add your bookings automatically to your calendar.";
+
+/* Message about the amount of spots available for the class (%d is amount) */
+"newGxSpotsLeft" = "newGxSpotsLeft";
+
+/* Action to go to the next part of a sequence. */
+"Next" = "Next";
+
+/* Message the user sees when the performed search didn't return any results for this given date */
+"No appointments found" = "No appointments found";
+
+/* Personal trainer clip card title */
+"No chosen PT" = "No chosen PT";
+
+/* GX Booking empty search result title
+   Message the user sees when the performed search didn't return any results for this given date */
+"No classes found" = "No classes found";
+
+/* Empty result message when selecting clubs in booking filter selector. */
+"No clubs found." = "No clubs found.";
+
+/* Find friends filter contact list */
+"No contacts matches your search" = "No contacts matches your search";
+
+/* Club visitor graph message when no data is available. */
+"No data to present." = "No data to present.";
+
+/* Own training distance picker option label for null */
+"no distance" = "no distance";
+
+/* Your membership no email */
+"No email registered" = "No email registered";
+
+/* Feed empty text */
+"No feed items." = "No feed items.";
+
+/* Default empty result message when selecting filter values in booking filter selector. */
+"No filter values could be found." = "No filter values could be found.";
+
+/* Empty result message when selecting group exercises in booking filter selector. */
+"No group exercises found." = "No group exercises found.";
+
+/* Empty result message when selecting instructors in booking filter selector. */
+"No instructors found." = "No instructors found.";
+
+/* Api error title for no internet connection
+   Error screen title */
+"No internet connection" = "No internet connection";
+
+/* Personal training intro text */
+"No matter what your starting point is, or which goals you have - we have a personal trainer that can help you make that happen. After you have bought your PT sessions online, you can book sessions in the app. New members get one free PT Start session." = "No matter what your starting point is, or which goals you have - we have a personal trainer that can help you make that happen. After you have bought your PT sessions online, you can book sessions in the app. New members get one free PT Start session.";
+
+/* Content text of PT info detail page. */
+"No matter what your starting point is, or which goals you have - we have a personal trainer who can help you make that happen. After you have bought your PT sessions online, you can book sessions in the app." = "No matter what your starting point is, or which goals you have - we have a personal trainer who can help you make that happen. After you have bought your PT sessions online, you can book sessions in the app.";
+
+/* EventLog no notifications message */
+"No notifications" = "No notifications";
+
+/* Empty friend screen */
+"No one is following you yet" = "No one is following you yet";
+
+/* Challenge list no challenge title */
+"No ongoing or upcoming challenges" = "No ongoing or upcoming challenges";
+
+/* Fallback text for empty online training result in list */
+"No online training videos" = "No online training videos";
+
+/* Empty result message when selecting personal trainers in booking filter selector. */
+"No personal trainers found." = "No personal trainers found.";
+
+/* Button: Dismiss confirm spot view */
+"No problem!" = "No problem!";
+
+/* PT Booking empty search result title */
+"No PT sessions found" = "No PT sessions found";
+
+/* Message to alert the user that they don't see results because no GX class search has been made yet
+   Message to alert the user that they don't see results because no PT appointment search has been made yet */
+"No search was made" = "No search was made";
+
+/* Button title for rejection. */
+"no thanks" = "no thanks";
+
+/* Empty result message when selecting times of day in booking filter selector. */
+"No times of day could be found." = "No times of day could be found.";
+
+/* Follower declined prompt text
+   Message when declining a follow request */
+"No worries, we won't tell your friend." = "No worries, we won't tell your friend.";
+
+/* Following empty list */
+"None of the people you follow have worked out yet." = "None of the people you follow have worked out yet.";
+
+/* Invite friend to join SATS no contacts info text */
+"None of your contact list friends have the SATS app yet" = "None of your contact list friends have the SATS app yet";
+
+/* Login become member */
+"Not a member yet?" = "Not a member yet?";
+
+/* System error: the user is not authenticated */
+"Not Authenticated" = "Not Authenticated";
+
+/* Api error title for not found
+   Network error: Not found */
+"Not found" = "Not found";
+
+/* Add own training comment placeholder */
+"notes" = "notes";
+
+/* EventLog Notifications header */
+"Notifications" = "Notifications";
+
+/* Rewards onboarding level popup description */
+"Now get your prize!" = "Now get your prize!";
+
+/* Number of comments with plural rule in localized.stringdict */
+"numberOfComments" = "numberOfComments";
+
+/* Number of days with plural rule in localized.stringdict
+   Number of days with plural rule in localized.stringsdict */
+"numberOfDays" = "numberOfDays";
+
+/* With plural rule in Localizable.stringdict */
+"numberOfHoursAgo" = "numberOfHoursAgo";
+
+/* With plural rule in localizable.stringdict */
+"numberOfMinutesAgo" = "numberOfMinutesAgo";
+
+/* Number of months with plural rule in localized.stringdict */
+"numberOfMonths" = "numberOfMonths";
+
+/* Accept privacy alert
+   Expression of agreement or understanding.
+   GX booking set name of search confirm button
+   Shared text */
+"OK" = "OK";
+
+/* Dismiss reset password confirmation prompt */
+"Ok" = "Ok";
+
+/* Challenge list section header */
+"Ongoing and upcoming challenges" = "Ongoing and upcoming challenges";
+
+/* Title of club is open filter. */
+"Open now" = "Open now";
+
+/* Find friends contact list permission: Open settings title
+   Open settings alert title. */
+"Open settings" = "Open settings";
+
+/* Confirm open calendar settings prompt */
+"Open Settings" = "Open Settings";
+
+/* Section header in club profile. */
+"Opening hours" = "Opening hours";
+
+/* Club opening time. @% = Opening time. */
+"Opens %@" = "Opens %@";
+
+/* When the club will open. %@ = opening time. e.g. 06:00 */
+"Opens at %@" = "Opens at %@";
+
+/* Error Category: when a request is cancelled */
+"Operation Cancelled" = "Operation Cancelled";
+
+/* Add own training optional field */
+"optional" = "optional";
+
+/* Or label for Onboarding terms and conditions
+   Separator of conditions to get the next level for rewards. X 'OR' Y */
+"or" = "or";
+
+/* No comment provided by engineer. */
+"Original user" = "Original user";
+
+/* Add own training other activities header */
+"other" = "other";
+
+/* Section header for personal trainers that are not highlighted. */
+"Other" = "Other";
+
+/* Profile page completed training button subtitle */
+"Overview of all completed training" = "Overview of all completed training";
+
+/* Login textfield placeholder */
+"Password" = "Password";
+
+/* Reset password confirmation prompt title */
+"Password reset" = "Password reset";
+
+/* Title for the incoming request secion of the follower list */
+"Pending requests" = "Pending requests";
+
+/* Header title of reaction list. */
+"people who said awesome" = "people who said awesome";
+
+/* No comment provided by engineer. */
+"Permanetly Clear Logs" = "Permanetly Clear Logs";
+
+/* A training professional who works one-on-one with members.
+   Heading for personal trainer information in PT session details page.
+   Personal trainer view title
+   PT booking filter */
+"Personal trainer" = "Personal trainer";
+
+/* Personal training, PT */
+"Personal training" = "Personal training";
+
+/* Member profiling title for onboarding
+   Settings title for member profiling */
+"Personalize your training" = "Personalize your training";
+
+/* members phone number to member */
+"Phone number" = "Phone number";
+
+/* Your membership no phone number */
+"Phone number not registered" = "Phone number not registered";
+
+/* Booking tab title for pilot of 'Plan workout' */
+"Plan workout" = "Plan workout";
+
+/* Plan workout empty state title */
+"Plan your training by selecting time slots.\n\nThis is only to help you plan, it's not required to select time slots to work out and it's not binding.\n" = "Plan your training by selecting time slots.\n\nThis is only to help you plan, it's not required to select time slots to work out and it's not binding.\n";
+
+/* Play button for playing media content */
+"Play" = "Play";
+
+/* Error screen text */
+"Please check your internet connection and try again." = "Please check your internet connection and try again.";
+
+/* Api error explanation for no internet connection */
+"Please reconnect and try again." = "Please reconnect and try again.";
+
+/* Error screen text */
+"Please try again. If the problem persists then contact our support team for assistance." = "Please try again. If the problem persists then contact our support team for assistance.";
+
+/* Section header in club profile. */
+"Popular times" = "Popular times";
+
+/* Graph color definition text for club visitor graph. */
+"Predictions" = "Predictions";
+
+/* Name of clip card used for previewing PT sessions. */
+"Preview" = "Preview";
+
+/* Title of clip card used for previewing PT sessions. */
+"Preview all PT sessions" = "Preview all PT sessions";
+
+/* A collection of settings that specify what user information, in most cases workouts, to share.
+   Privacy settings header
+   Settings list title */
+"Privacy" = "Privacy";
+
+/* Settings list title */
+"Privacy policy" = "Privacy policy";
+
+/* Privacy button label in Onboarding terms and conditions */
+"privacy statements" = "privacy statements";
+
+/* Private information - contact information */
+"Private information" = "Private information";
+
+/* Error when a user is trying to see a member profile that has blocked the user or is simply not found */
+"Profile not found" = "Profile not found";
+
+/* Acronym for personal trainer.
+   PT booking filter */
+"PT" = "PT";
+
+/* Page title for the search results for booking */
+"PT booking" = "PT booking";
+
+/* Profile PT clips component title */
+"PT clips" = "PT clips";
+
+/* Booking tab title for PT session
+   Default title of PT session detail page. */
+"PT session" = "PT session";
+
+/* PT Clips landing page - PT Start module lead text */
+"PT Start, an introduction to personal training." = "PT Start, an introduction to personal training.";
+
+/* Description content in PT session detail page. */
+"PT will meet you in the reception, wear your training clothes. \n\nFor cancellation, please note that PT session must be cancelled at least 24h in advance. If you fail to cancel the session, your clip will be drawn and you are not entiteled to another session." = "PT will meet you in the reception, wear your training clothes. \n\nFor cancellation, please note that PT session must be cancelled at least 24h in advance. If you fail to cancel the session, your clip will be drawn and you are not entiteled to another session.";
+
+/* Settings list title */
+"Push notifications" = "Push notifications";
+
+/* Scan QR to find friend error text */
+"QR scan failed, please try again." = "QR scan failed, please try again.";
+
+/* Feedback form rating field */
+"Rating" = "Rating";
+
+/* Title for the link to read more about rewards */
+"Read more about SATS rewards" = "Read more about SATS rewards";
+
+/* Api error explanation for server error */
+"Received status code: \(statusCode)." = "Received status code: \(statusCode).";
+
+/* Booking landing page recent search header */
+"Recent search" = "Recent search";
+
+/* Button title for recruiting friend. */
+"recruit" = "recruit";
+
+/* MGM popup header text. */
+"Recruit a friend and get %.0f %@!" = "Recruit a friend and get %1$.0f %2$@!";
+
+/* Title of rewards module in member profile. */
+"Recruit friends" = "Recruit friends";
+
+/* MGM main header */
+"Recruit friends and see your rewards" = "Recruit friends and see your rewards";
+
+/* Action to remove a follow request
+   Action to remove a follower
+   Find friends alert confirmation button */
+"Remove" = "Remove";
+
+/* Title of the alert to stop someone to follow me */
+"Remove Follower" = "Remove Follower";
+
+/* Profile page photo */
+"Remove photo" = "Remove photo";
+
+/* Title of the alert to remove a follow request */
+"Remove Request" = "Remove Request";
+
+/* Find friends alert confirmation title
+   Follower remove request prompt title */
+"Remove request?" = "Remove request?";
+
+/* The user requested to follow this profile */
+"requested" = "requested";
+
+/* A state where a member has requested to follow another member.
+   Button text for follow request sent
+   Follower accept prompt remove request button
+   Friend relation state
+   Status for outgoing following request
+   Status of an outgoing follow request
+   Title of section requested following */
+"Requested" = "Requested";
+
+/* Confirm reset password button */
+"Reset password" = "Reset password";
+
+/* System error: there was a resource that doesn't exist anymore */
+"Resource Deleted" = "Resource Deleted";
+
+/* System error: the resource we are trying to load is not found */
+"Resource Not Found" = "Resource Not Found";
+
+/* Action to retry an operation.
+   Action to retry fetching data
+   Button title in retry screen.
+   GX Booking result retry loading button
+   Page loader retry button */
+"Retry" = "Retry";
+
+/* Challenges page section title */
+"Reward" = "Reward";
+
+/* title to set the theme of the app based on the user's reward level */
+"Rewards theme" = "Rewards theme";
+
+/* Challenges page section title */
+"Rules" = "Rules";
+
+/* Rewards onboarding description text */
+"SATS Rewards is a loyalty program that gives you more benefits the more you workout on clubs and the longer you have been a SATS member." = "SATS Rewards is a loyalty program that gives you more benefits the more you workout on clubs and the longer you have been a SATS member.";
+
+/* Follower remove request prompt title (%@ = requestee's name */
+"SATS won't tell %@ that the follow request was removed." = "SATS won't tell %@ that the follow request was removed.";
+
+/* Day of week. */
+"Saturday" = "Saturday";
+
+/* day of week */
+"saturday" = "saturday";
+
+/* Edit own training save button label */
+"save" = "save";
+
+/* Action to persist changes of a resource.
+   GX booking save search button */
+"Save" = "Save";
+
+/* GX booking, stores changes as new saved search */
+"Save as new search" = "Save as new search";
+
+/* GX booking save search
+   GX booking, update a saved search
+   Save changes button for comment */
+"Save changes" = "Save changes";
+
+/* Booking landing page, header for edited saved search name
+   GX booking, saving a search alert title */
+"Save search as" = "Save search as";
+
+/* Text shown when no saved search is present for GX */
+"Save your favourite search" = "Save your favourite search";
+
+/* GX booking saved search button
+   Title for the save button when a saved search was successfully saved */
+"Saved" = "Saved";
+
+/* Booking landing page saved search header */
+"Saved search" = "Saved search";
+
+/* Activity reaction text */
+"Say awesome!" = "Say awesome!";
+
+/* QR Code Scan button text */
+"Scan to follow" = "Scan to follow";
+
+/* Scan QR code to add a friend title */
+"Scan to follow friend" = "Scan to follow friend";
+
+/* Onboarding title */
+"Scan your personal QR code to access the gym" = "Scan your personal QR code to access the gym";
+
+/* Title for the upcoming training module in the member's profile
+   Title of upcoming workouts in top story. */
+"Schedule" = "Schedule";
+
+/* Action to find something, typically with a query.
+   Booking filter search placeholder
+   Search bar online training
+   Title of search form for gx classes */
+"Search" = "Search";
+
+/* Placeholder text when searching for club filters
+   Search field placeholder for clubs. */
+"Search clubs" = "Search clubs";
+
+/* Find friends search field placeholder
+   Search text field placeholder */
+"Search for friends" = "Search for friends";
+
+/* Placeholder for saved search new name */
+"Search name" = "Search name";
+
+/* Placeholder text when searching within the PT filters */
+"Search PTs" = "Search PTs";
+
+/* Date formatting with plural rule in Localizable.stringsdict */
+"secondsLeft" = "secondsLeft";
+
+/* No comment provided by engineer. */
+"Section" = "Section";
+
+/* Action to see all items.
+   Profile trophy case module see all button */
+"See all" = "See all";
+
+/* Profile page see all upcoming trainings button */
+"See all (%d)" = "See all (%d)";
+
+/* Common see all button (\n = new line, %d = number of total elements) */
+"See all\n(%d)" = "See all\n(%d)";
+
+/* Button title to see all specific classes from a generic one */
+"see classes" = "see classes";
+
+/* Button title to see all the upcoming training for a member */
+"see full schedule" = "see full schedule";
+
+/* Button title: Gx spot confirmation failure view */
+"See upcoming classes" = "See upcoming classes";
+
+/* Link card text for booking a PT session */
+"Select a PT and find an available session in the calendar." = "Select a PT and find an available session in the calendar.";
+
+/* Empty screen message in PT booking when no filters are selected. */
+"Select filters to see available PT appointments." = "Select filters to see available PT appointments.";
+
+/* Feedback form send button title */
+"Send" = "Send";
+
+/* Find friends by sending invitation title */
+"Send invitation" = "Send invitation";
+
+/* Error Category: the backend returned an internal error */
+"Server Error" = "Server Error";
+
+/* Api error title for server error */
+"Server error" = "Server error";
+
+/* Network error: Service unavailable
+   System error: the backend server is down */
+"Service unavailable" = "Service unavailable";
+
+/* With plural rule in localizable.stringsdict */
+"session" = "session";
+
+/* PT Booking confirmation title */
+"Session booked" = "Session booked";
+
+/* Privacy setting title */
+"Share challenges" = "Share challenges";
+
+/* Privacy setting title */
+"Share history" = "Share history";
+
+/* Feedback option explanation for app suggestions */
+"Share ideas and suggestions for the app" = "Share ideas and suggestions for the app";
+
+/* Privacy setting title */
+"Share statistics and loyalty level" = "Share statistics and loyalty level";
+
+/* Privacy setting title */
+"Share upcoming" = "Share upcoming";
+
+/* Feedback option explanation for general app feedback */
+"Share what you think about the app" = "Share what you think about the app";
+
+/* MGM recruitment button title. */
+"Share your link" = "Share your link";
+
+/* Action to see results, typically with a query.
+   Button title to perform the search for gx classes */
+"Show results" = "Show results";
+
+/* Privacy setting description */
+"Show your completed training to your followers" = "Show your completed training to your followers";
+
+/* Privacy setting description */
+"Show your started and completed challenges to your followers." = "Show your started and completed challenges to your followers.";
+
+/* Privacy setting description */
+"Show your upcoming training and SATS Rewards level to your followers" = "Show your upcoming training and SATS Rewards level to your followers";
+
+/* Privacy setting description */
+"Show your upcoming training to your followers" = "Show your upcoming training to your followers";
+
+/* Button for moving to login screen
+   Login button */
+"Sign in" = "Sign in";
+
+/* Login screen lead text */
+"Sign in with" = "Sign in with";
+
+/* Onboarding skip button title */
+"skip" = "skip";
+
+/* No comment provided by engineer. */
+"Small regular" = "Small regular";
+
+/* Privacy setting title */
+"Social Experience" = "Social Experience";
+
+/* Error title */
+"Something went wrong" = "Something went wrong";
+
+/* Shared standard error message */
+"Something went wrong, please try again" = "Something went wrong, please try again";
+
+/* GX booking status, e.g. 18/20 spots booked.
+   GX upcoming trainings booking status
+   My profile, upcoming trainings booking status */
+"spots booked" = "spots booked";
+
+/* Abbreviation for square meters */
+"sqm" = "sqm";
+
+/* Finish onboarding button title */
+"start exploring" = "start exploring";
+
+/* Discover: find friends description */
+"Start following people to like their training and see which classes they are attending" = "Start following people to like their training and see which classes they are attending";
+
+/* Date formatting with plural rule in Localizable.stringsdict */
+"startsInDays" = "startsInDays";
+
+/* Date formatting with plural rule in Localizable.stringsdict */
+"startsInHours" = "startsInHours";
+
+/* Date formatting with plural rule in Localizable.stringsdict */
+"startsInMinutes" = "startsInMinutes";
+
+/* Date formatting with plural rule in Localizable.stringsdict */
+"startsInSeconds" = "startsInSeconds";
+
+/* Title for the stats section in the profile */
+"Statistics" = "Statistics";
+
+/* Title of the alert to stop following someone */
+"Stop following" = "Stop following";
+
+/* Booking landing page suggested search header */
+"Suggested search" = "Suggested search";
+
+/* Feedback option: suggestions for the app */
+"Suggestions for the app" = "Suggestions for the app";
+
+/* Day of week. */
+"Sunday" = "Sunday";
+
+/* day of week */
+"sunday" = "sunday";
+
+/* Error Category: an error from our backend which is called SystemError on the backend */
+"System Error" = "System Error";
+
+/* Profile page photo */
+"Take photo" = "Take photo";
+
+/* Teaser button for playing a teaser of some content */
+"Teaser" = "Teaser";
+
+/* MGM text for navigation link to terms and conditions.
+   Settings list title
+   Title for the link to read the terms for rewards */
+"Terms and conditions" = "Terms and conditions";
+
+/* Onboarding terms and conditions screen title
+   Terms and conditions button in Onboarding terms and conditions */
+"terms and conditions" = "terms and conditions";
+
+/* No comment provided by engineer. */
+"Test" = "Test";
+
+/* No comment provided by engineer. */
+"Test users" = "Test users";
+
+/* Message: Did unbook class from spot confirmation */
+"Thank you for removing yourself from the wait list! By doing so you make it possible for others to enjoy the class." = "Thank you for removing yourself from the wait list! By doing so you make it possible for others to enjoy the class.";
+
+/* Message: Did unbook class from spot confirmation */
+"Thank you for unbooking early. You’ve made someone’s life easier!" = "Thank you for unbooking early. You’ve made someone’s life easier!";
+
+/* Header: Thank you */
+"Thank you!" = "Thank you!";
+
+/* Calender settings title for denied calendar access */
+"The app does not have permission to access your calendar. To turn it on go to your phone's settings." = "The app does not have permission to access your calendar. To turn it on go to your phone's settings.";
+
+/* A message informing the user that the app does not have authorization to receive push notifications. */
+"The app does not have permission to send you notifications.To turn it on, go to your phones settings." = "The app does not have permission to send you notifications.To turn it on, go to your phones settings.";
+
+/* QR Scan to follow member error message */
+"The follow request could not be sent, please try again." = "The follow request could not be sent, please try again.";
+
+/* Login error message, username format is invalid. */
+"The format of the username/email is invalid. Make sure it is typed correctly." = "The format of the username/email is invalid. Make sure it is typed correctly.";
+
+/* Network error explanation: bad request */
+"The request is malformed and cannot be fulfilled." = "The request is malformed and cannot be fulfilled.";
+
+/* Error screen text */
+"The request timed out. Please check your internet connection and try again." = "The request timed out. Please check your internet connection and try again.";
+
+/* Network error explanation: not found */
+"The requested resource could not be found." = "The requested resource could not be found.";
+
+/* Api error explanation for bad request */
+"The server could not understand the request." = "The server could not understand the request.";
+
+/* Network error explanation: gateway timeout */
+"The server is acting as a proxy and did not receive a response from the upstream server." = "The server is acting as a proxy and did not receive a response from the upstream server.";
+
+/* Network error explanation: bad gateway */
+"The server is acting as a proxy and did not receive an acceptable response from the upstream server." = "The server is acting as a proxy and did not receive an acceptable response from the upstream server.";
+
+/* Network error explanation: service unavailable */
+"The server is down and is not accepting requests." = "The server is down and is not accepting requests.";
+
+/* Section title to choose the theme of the app */
+"Theme" = "Theme";
+
+/* No comment provided by engineer. */
+"Theme Settings" = "Theme Settings";
+
+/* Title for notice informing about themes in the app */
+"Themes in the app" = "Themes in the app";
+
+/* Challenge list no challenge text */
+"There are no ongoing or upcoming challenges right now, but check back later!" = "There are no ongoing or upcoming challenges right now, but check back later!";
+
+/* Message when the user has all privacy enabled, then there is no info about that person */
+"There is no info about %@" = "There is no info about %@";
+
+/* Network error explanation: internal server error */
+"There was an error in the server, please try again later." = "There was an error in the server, please try again later.";
+
+/* Message for private activity view */
+"This activity is hidden from your followers" = "This activity is hidden from your followers";
+
+/* iOS 12 support under construction message */
+"This feature is not yet supported on iOS 12 and earlier. It will be available in a future update." = "This feature is not yet supported on iOS 12 and earlier. It will be available in a future update.";
+
+/* Expired gift card text. */
+"This gift card has expired" = "This gift card has expired";
+
+/* Pending gift card text. */
+"This gift card is not valid yet.\n It can take up to 14 days to register your friend." = "This gift card is not valid yet.\n It can take up to 14 days to register your friend.";
+
+/* Booking empty search result for 'plan your workout' */
+"This is a pilot for selected centers.\nLearn more by pressing a time slot." = "This is a pilot for selected centers.\nLearn more by pressing a time slot.";
+
+/* Message when seeing a friends profile that doesn't follow anywone */
+"This person does not follow anyone yet" = "This person does not follow anyone yet";
+
+/* Message when seeing a profile that is not followed by anyone */
+"This person is not followed by anyone yet" = "This person is not followed by anyone yet";
+
+/* Add own training comment helper text */
+"This will be visible to all your followers" = "This will be visible to all your followers";
+
+/* day of week */
+"thursday" = "thursday";
+
+/* Day of week. */
+"Thursday" = "Thursday";
+
+/* Add own training date picker label */
+"time" = "time";
+
+/* Info: Confirm GX spot */
+"Time is of the essence! The earlier you unbook, the more convenient for others to take up your spot." = "Time is of the essence! The earlier you unbook, the more convenient for others to take up your spot.";
+
+/* GX booking filter */
+"Time of day" = "Time of day";
+
+/* GX booking filter */
+"Time of Day" = "Time of Day";
+
+/* Api error title for request timed out */
+"Timed out" = "Timed out";
+
+/* Error screen title */
+"Timeout error" = "Timeout error";
+
+/* GX booking set name of search prompt title */
+"Title" = "Title";
+
+/* Challenge -> Onboarding tasks checklist description */
+"To complete this challenge you need to complete the tasks below" = "To complete this challenge you need to complete the tasks below";
+
+/* Message the user sees when he/she doesn't follow anyone */
+"To get more connections, find friends and send them a follow request. If they send you a follow request you accept, they will show up here." = "To get more connections, find friends and send them a follow request. If they send you a follow request you accept, they will show up here.";
+
+/* Member profiling description for onboarding */
+"To get personalized training suggestions and tips, answer 4 questions about your goals and training preferences." = "To get personalized training suggestions and tips, answer 4 questions about your goals and training preferences.";
+
+/* Open settings alert message. */
+"To see clubs nearby you need to enable location in settings." = "To see clubs nearby you need to enable location in settings.";
+
+/* Date representation by text */
+"Today" = "Today";
+
+/* No comment provided by engineer. */
+"Tokens" = "Tokens";
+
+/* Date representation by text */
+"Tomorrow" = "Tomorrow";
+
+/* Profile total workouts for chosen time frame */
+"Total workouts" = "Total workouts";
+
+/* Main menu training title */
+"Training" = "Training";
+
+/* Booking landing page service title for treatments
+   Booking tab title for Treatments */
+"Treatments" = "Treatments";
+
+/* Profile trophy case module title */
+"Trophy case" = "Trophy case";
+
+/* day of week */
+"tuesday" = "tuesday";
+
+/* Day of week. */
+"Tuesday" = "Tuesday";
+
+/* Privacy confirmation alert title */
+"Turn off social experience?" = "Turn off social experience?";
+
+/* Reset password description */
+"Type in your e-mail or member ID so we can send you a new password" = "Type in your e-mail or member ID so we can send you a new password";
+
+/* Error banner message */
+"Unable to connect to server, please check your internet connection" = "Unable to connect to server, please check your internet connection";
+
+/* Network error: Unauthorized */
+"Unauthorized" = "Unauthorized";
+
+/* Action to unbook a class or a session.
+   Confirm GX Unbook confirmation prompt */
+"Unbook" = "Unbook";
+
+/* GX Unbook confirmation prompt title */
+"Unbook class?" = "Unbook class?";
+
+/* Button text in PT session detail page when session is booked. */
+"unbook session" = "unbook session";
+
+/* Undo banner button */
+"Undo" = "Undo";
+
+/* Action to unfollow another member.
+   Action to unfollow someone */
+"Unfollow" = "Unfollow";
+
+/* Upgrade to have access prompt text */
+"Unfortunately, you can not upgrade within the app. We know, it is not ideal. But join and come back to enjoy this content." = "Unfortunately, you can not upgrade within the app. We know, it is not ideal. But join and come back to enjoy this content.";
+
+/* Error Category: unhandled backend error */
+"Unhandled Backend Error" = "Unhandled Backend Error";
+
+/* Error Category: an error that didn't fall in any known category */
+"Unknown Error" = "Unknown Error";
+
+/* Link to upcoming PT sessions text */
+"Upcoming PT sessions" = "Upcoming PT sessions";
+
+/* Personal trainer upcoming sessions (%d = number of upcoming sessions) */
+"Upcoming sessions (%d)" = "Upcoming sessions (%d)";
+
+/* Upcoming training module name */
+"upcoming training" = "upcoming training";
+
+/* Privacy setting header
+   Profile upcoming training title */
+"Upcoming training" = "Upcoming training";
+
+/* change membership button */
+"Update membership" = "Update membership";
+
+/* Booking landing page gx upgrade button text
+   Upgrade membership button */
+"Upgrade" = "Upgrade";
+
+/* Upgrade to have access prompt title */
+"Upgrade to see this class" = "Upgrade to see this class";
+
+/* Label to indicate a voucher is already used */
+"Used" = "Used";
+
+/* Reset password empty text field error message */
+"Username is missing!" = "Username is missing!";
+
+/* Login error message, invalid username and/or password. */
+"Username or password is incorrect" = "Username or password is incorrect";
+
+/* Login error message description when empty username or password */
+"Username or password is missing!" = "Username or password is missing!";
+
+/* Gift card expiration date, @ = expiration date */
+"Valid until: %@" = "Valid until: %@";
+
+/* System error: when submitted data is not valid */
+"Validation Error" = "Validation Error";
+
+/* Button title for viewing all group class. */
+"View all group classes" = "View all group classes";
+
+/* Label for voucher credit type */
+"Voucher type" = "Voucher type";
+
+/* Title for the vouchers screen */
+"Vouchers" = "Vouchers";
+
+/* Abbreviated 'with' followed by a noun. For example, w/ John Doe. */
+"w/ %@" = "w/ %@";
+
+/* Default placeholder text when sending feedback */
+"We are always trying to be better, we welcome your suggestions." = "We are always trying to be better, we welcome your suggestions.";
+
+/* Upcoming training card, message for PT session. Should be 'Vi gleder oss!' in Scandinavian */
+"We can't wait!" = "We can't wait!";
+
+/* Api error explanation for not found */
+"We could not find the resource you are looking for." = "We could not find the resource you are looking for.";
+
+/* Notification: Message */
+"We couldn't confirm your booking status. Please try again within the app." = "We couldn't confirm your booking status. Please try again within the app.";
+
+/* Error message when there was data loading profile info */
+"We couldn't load all info" = "We couldn't load all info";
+
+/* Member profile workout status (no data received) */
+"We don't have workout data for %@" = "We don't have workout data for %@";
+
+/* Sub heading in PT session detail page. */
+"We look forward to meet you" = "We look forward to meet you";
+
+/* More notifications disabled screen message
+   Onboarding push notifications screen section */
+"We will notify you about special updates, upcoming class reservations, follow requests, general messages from SATS and cancelations." = "We will notify you about special updates, upcoming class reservations, follow requests, general messages from SATS and cancelations.";
+
+/* day of week */
+"wednesday" = "wednesday";
+
+/* Day of week. */
+"Wednesday" = "Wednesday";
+
+/* Welcome title for onboarding (%@ = member name) */
+"Welcome, %@!" = "Welcome, %@!";
+
+/* PT-Start table title */
+"What is PT-Start?" = "What is PT-Start?";
+
+/* Calender settings message describing when add bookings to calendar toggle is on */
+"When booking a class it will automatically add it to your calendar on your phone" = "When booking a class it will automatically add it to your calendar on your phone";
+
+/* GX Saved search description */
+"When you have filterered on what you want, you can save it for later use. It will pop up here as a shortcut for easier booking." = "When you have filterered on what you want, you can save it for later use. It will pop up here as a shortcut for easier booking.";
+
+/* Profile weekly activity empty content message for current member. */
+"When you start working out, you will see your statistics here" = "When you start working out, you will see your statistics here";
+
+/* Default api error title */
+"Whoops!" = "Whoops!";
+
+/* Relative date string */
+"Will end momentarily" = "Will end momentarily";
+
+/* Workout history module name */
+"workout history" = "workout history";
+
+/* Profile average number of workouts per week for chosen time frame */
+"Workouts per week" = "Workouts per week";
+
+/* No comment provided by engineer. */
+"Yeah" = "Yeah";
+
+/* Onboarding enable button title */
+"yes, notify me" = "yes, notify me";
+
+/* GX booking your place on the waiting list (%@ = number in the list e.g. 10th */
+"You are %@ on the waiting list" = "You are %@ on the waiting list";
+
+/* Message about the user position on a waitlist (%@ is the ordinal number) */
+"You are %@ on waitlist" = "You are %@ on waitlist";
+
+/* Info: Confirm GX spot */
+"You are most likely to get a spot within the last 24 hours." = "You are most likely to get a spot within the last 24 hours.";
+
+/* Api error explanation for bad request */
+"You are not authenticated." = "You are not authenticated.";
+
+/* Network error explanation: unauthorized */
+"You are not authorized to access the resource." = "You are not authorized to access the resource.";
+
+/* Api error explanation for bad request */
+"You are not authorized to fulfill this request." = "You are not authorized to fulfill this request.";
+
+/* Title of the empty following list screen */
+"You are not following anyone yet" = "You are not following anyone yet";
+
+/* First part of the title showing your current level */
+"you are on" = "you are on";
+
+/* Rewards onboarding level popup title, %@ = The loyalty level you're currently on */
+"You are on %@ level" = "You are on %@ level";
+
+/* Calendar open settings prompt text */
+"You can change this in your phone settings" = "You can change this in your phone settings";
+
+/* Profile motivation title (no workouts yet) */
+"You can do it!" = "You can do it!";
+
+/* Privacy setting description */
+"You can join and invite people to training. Motivate people by liking and commenting their training.\n\nWhen you like a followers training, they and their followers will see that you liked it.\n\nTo be able to send you a follow request, SATS members can find you when they search for new friends." = "You can join and invite people to training. Motivate people by liking and commenting their training.\n\nWhen you like a followers training, they and their followers will see that you liked it.\n\nTo be able to send you a follow request, SATS members can find you when they search for new friends.";
+
+/* Challenge completed prompt text */
+"You completed" = "You completed";
+
+/* Message when no vouchers are found */
+"You currently don’t have any vouchers" = "You currently don’t have any vouchers";
+
+/* Follower declined prompt title
+   Title for when you decline a follow request */
+"You declined a follow request" = "You declined a follow request";
+
+/* Empty friend screen */
+"You don't follow anyone yet" = "You don't follow anyone yet";
+
+/* Empty gift card text. */
+"You don't have any money left on this card" = "You don't have any money left on this card";
+
+/* Trophy case empty content message. */
+"You don't have any trophies yet" = "You don't have any trophies yet";
+
+/* Title for user in the following scene who dooes not follow anyone. */
+"you don’t follow anyone yet" = "you don’t follow anyone yet";
+
+/* Follower accepted prompt title
+   Title of accept follow screen */
+"You got a new follower" = "You got a new follower";
+
+/* Rewards onboarding level popup description, %d = number of member days and workouts */
+"You have been a SATS member for %d days and finished %d workouts!" = "You have been a SATS member for %1$d days and finished %2$d workouts!";
+
+/* Profile PT Clips info - no available clips */
+"You have no active clips" = "You have no active clips";
+
+/* Inactive PT clips page - empty list result */
+"You have no inactive or empty PT packages." = "You have no inactive or empty PT packages.";
+
+/* Pt filter message for no clip cards. */
+"You have no PT clips" = "You have no PT clips";
+
+/* PT Clips description text for buying more clips */
+"You have no PT clips.\nBuy clips to book a PT and get started." = "You have no PT clips.\nBuy clips to book a PT and get started.";
+
+/* Empty result message for own upcoming training. */
+"You have no upcoming training events." = "You have no upcoming training events.";
+
+/* Empty result message for upcoming PT sessions. */
+"You have no upcomning PT sessions." = "You have no upcomning PT sessions.";
+
+/* Contacts access error message */
+"You have not allowed SATS to access your contact list. Go to your phone’s settings to allow access to your contact list." = "You have not allowed SATS to access your contact list. Go to your phone’s settings to allow access to your contact list.";
+
+/* Empty result message for completed PT sessions. */
+"You have not completed any PT sessions." = "You have not completed any PT sessions.";
+
+/* Profile motivation text (no workouts yet) */
+"You haven't worked out yet this week" = "You haven't worked out yet this week";
+
+/* Completed training empty list */
+"You haven’t worked out yet. Once you hit the gym or log own training it will appear here." = "You haven’t worked out yet. Once you hit the gym or log own training it will appear here.";
+
+/* GX booking: changes made to saved search. %@ = name of search */
+"You made changes to '%@'" = "You made changes to '%@'";
+
+/* Network error explanation: forbidden */
+"You might not have the necessary permissions for this resource." = "You might not have the necessary permissions for this resource.";
+
+/* Invite friend to join SATS sell text */
+"You should try the SATS app. Then we can follow each others activities, and join in on each others training. Join and add me as a friend." = "You should try the SATS app. Then we can follow each others activities, and join in on each others training. Join and add me as a friend.";
+
+/* Notification preferences message for comments on my activity */
+"You will be notified when a follower comments on your activity" = "You will be notified when a follower comments on your activity";
+
+/* Notification preference message for followee reaction */
+"You will be notified when a follower likes your workout" = "You will be notified when a follower likes your workout";
+
+/* Notification preference message for followee cancels group exercise */
+"You will be notified when a person you follow cancels a class you both have booked" = "You will be notified when a person you follow cancels a class you both have booked";
+
+/* Notification preferences message for followee comments on activity you have commented */
+"You will be notified when a person you follow comments on an activity you have commented" = "You will be notified when a person you follow comments on an activity you have commented";
+
+/* Notification preference message for group exercise invitation */
+"You will be notified when a person you follow invites or declines an invitation to a class" = "You will be notified when a person you follow invites or declines an invitation to a class";
+
+/* Notification preference message for followee joins group exercise */
+"You will be notified when a person you follow joins a class that you have booked" = "You will be notified when a person you follow joins a class that you have booked";
+
+/* GX Booking state text
+   Message when the user will be the first on the waitlist */
+"You will be the first on the waitlist" = "You will be the first on the waitlist";
+
+/* GX Booking confirmation, in waiting list (%d = number in waiting list) */
+"you're #%d on the waitlist" = "you're #%d on the waitlist";
+
+/* Group exercise waiting list where %i = members waiting list position */
+"You're number %i on waitlist" = "You're number %i on waitlist";
+
+/* GX Boooking waiting list text (%d = number in list) */
+"you're number <bold>%d</bold> on the waitlist" = "you're number <bold>%d</bold> on the waitlist";
+
+/* Profile motivation text (>1 workouts, %d = number of workouts) */
+"You've worked out %d times this week" = "You've worked out %d times this week";
+
+/* Profile motivation text (1 workout and weekday)
+   Profile motivation text (1 workout and weekend) */
+"You've worked out once this week" = "You've worked out once this week";
+
+/* Text with plural rule in localized.stringdict */
+"youAndFriendsAttendedClass" = "youAndFriendsAttendedClass";
+
+/* Delete activity description */
+"Your activity will no longer be visible to you or your followers. It will also disappear from your statistics." = "Your activity will no longer be visible to you or your followers. It will also disappear from your statistics.";
+
+/* Description for delete comment prompt */
+"Your comment will no longer be visible to you or anyone else." = "Your comment will no longer be visible to you or anyone else.";
+
+/* Upcoming training title, personal trainer completed training */
+"Your completed sessions" = "Your completed sessions";
+
+/* Description for make activity public */
+"Your followers will be able to see this activity" = "Your followers will be able to see this activity";
+
+/* Description for make activity private */
+"Your followers will no longer be able to see this activity" = "Your followers will no longer be able to see this activity";
+
+/* Find friends list title */
+"Your friends with the SATS app" = "Your friends with the SATS app";
+
+/* Settings list title
+   Your membership header in navigation bar */
+"Your membership" = "Your membership";
+
+/* Clip card section title for PT booking filters
+   Pt filter title for clip cards. */
+"Your PT clips" = "Your PT clips";
+
+/* PT Clips list title */
+"Your PT packages" = "Your PT packages";
+
+/* MGM rewards section header. */
+"Your rewards." = "Your rewards.";
+
+/* Upcoming training title, personal trainer upcoming training */
+"Your upcoming sessions" = "Your upcoming sessions";
+
+/* A member's upcoming training sessions */
+"Your upcoming training" = "Your upcoming training";
+
+/* No comment provided by engineer. */
+"•" = "•";
+
