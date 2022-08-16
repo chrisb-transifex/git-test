@@ -1,0 +1,17 @@
+// Strings used for prototyping
+"Product_Name" = "ItsOn";
+
+
+"Product_Slogan" = "Making your mobile service always exactly right.";
+
+
+"enterPhoneNumber" = "Enter Phone Number";
+
+
+"Email" = "Email";
+
+
+"Phone" = "Phone";
+
+
+"Country" = "Country";
