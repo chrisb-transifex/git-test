@@ -1,0 +1,7 @@
+﻿NSCalendarsUsageDescription = "SATS benötigt Zugriff auf Ihren Kalender, um Buchungseinträge hinzuzufügen und zu entfernen.";
+NSCameraUsageDescription = "SATS benötigt die Erlaubnis, die Kamera zum Scannen von QR-Codes zum Hinzufügen neuer Follower und zum Aktualisieren des Profilbilds zu verwenden.";
+NSContactsUsageDescription = "SATS benötigt die Berechtigung, auf das Telefonbuch zuzugreifen, um SATS-Benutzer zu finden, die Sie in Ihrer Kontaktliste haben.";
+NSLocalNetworkUsageDescription = "SATS verwendet Ihr lokales Netzwerk, um Medienwiedergabegeräte wie Apple TV zu erkennen.";
+NSLocationUsageDescription = "SATS verwendet Ihren Standort, um die nächstgelegenen Clubs zu finden.";
+NSLocationWhenInUseUsageDescription = "SATS verwendet Ihren Standort, um die nächstgelegenen Clubs zu finden.";
+NSMicrophoneUsageDescription = "SATS verwendet den Mikrofonzugriff, um beim Koppeln mit Cast-Geräten in der Nähe nach Ultraschall-Token zu lauschen.";
