@@ -3,5 +3,5 @@ git:
     - filter_type: file
       file_format: STRINGS
       source_language: en
-      source_file: for_translation_member-app-native-ios_sats-memberapp-resources-localization-en-lproj-localizable-strings--main_fi.strings
+      source_file: test.strings
       translation_files_expression: 'githubtest/translations/<lang>/'
