@@ -1,4 +1,4 @@
-NSCalendarsUsageDescription = "SATS needs access to your calendar to add and remove booking entries.";
+"NSCalendarsUsageDescription" = "SATS needs access to your calendar to add and remove booking entries.";
 NSCameraUsageDescription = "SATS needs permission to use the camera for scanning QR codes for adding new followees and for updating profile picture.";
 NSContactsUsageDescription = "SATS needs permission to access phonebook for finding SATS users that you have in your contact list.";
 NSLocalNetworkUsageDescription = "SATS uses your local network to discover media playing devices like Apple TV.";
