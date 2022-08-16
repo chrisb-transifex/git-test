@@ -1,0 +1,7 @@
+﻿NSCalendarsUsageDescription = "SATS skal have adgang til din kalender for at tilføje og fjerne reservationsposter.";
+NSCameraUsageDescription = "SATS skal have tilladelse til at bruge kameraet til at scanne QR-koder for at tilføje nye følgere og til at opdatere profilbillede.";
+NSContactsUsageDescription = "SATS skal have tilladelse til at få adgang til telefonbogen for at finde SATS-brugere, som du har på din kontaktliste.";
+NSLocalNetworkUsageDescription = "SATS bruger dit lokale netværk til at opdage medieafspilningsenheder som Apple TV.";
+NSLocationUsageDescription = "SATS bruger din placering til at finde de nærmeste klubber.";
+NSLocationWhenInUseUsageDescription = "SATS bruger din placering til at finde de nærmeste klubber.";
+NSMicrophoneUsageDescription = "SATS bruger mikrofonadgang til at lytte efter ultralyds-tokens, når du parrer med Cast-enheder i nærheden.";
