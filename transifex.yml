@@ -9,7 +9,7 @@ git:
     - filter_type: file
       file_format: STRINGS
       source_language: en
-      source_file: test2.strings
+      source_file: member-app-native-ios_sats-memberapp-resources-localization-en-lproj-localizable-strings--main_en.strings
       translation_files_expression: 'githubtest/translations/<lang>/'
 
     - filter_type: file
