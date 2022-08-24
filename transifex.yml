@@ -7,7 +7,7 @@ git:
       translation_files_expression: 'githubtest/translations/<lang>/'
       
  
-  settings:
+   - settings:
       pr_branch_name: translate/id_<br_unique_id>
       language_mapping:
       el: el-US
