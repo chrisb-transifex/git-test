@@ -6,7 +6,7 @@ git:
       source_file: test.strings
       translation_files_expression: 'githubtest/translations/<lang>/'
 
-  settings:
-      -language_mapping:
-       el: el-US
+
+  language_mapping:
+    - el: el-US
         
