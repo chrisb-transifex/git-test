@@ -2,7 +2,7 @@ git:
   filters:
     - filter_type: file
       file_format: PO
-      source_language: en_US
+      source_language: el
       source_file: test3.po
       translation_files_expression: 'githubtest/translations/<lang>/'
  
