@@ -3,7 +3,7 @@ git:
     - filter_type: file
       file_format: PO
       source_language: el
-      source_file: test4.po
+      source_file: exercisefiles_examplepo_en.po
       translation_files_expression: 'githubtest/translations/<lang>/'
  
 
