@@ -1,9 +1,10 @@
 git:
   filters:
-    - filter_type: file
-      file_format: PO
-      source_language: el
-      source_file: exercisefiles_examplepo_en.po
-      translation_files_expression: 'githubtest/translations/<lang>/'
+    - filter_type: dir
+      file_format: JSON
+      source_file_extension: json
+      source_language: en
+      source_file_dir: test/
+      translation_files_expression: 'translations/<lang>'
  
 
