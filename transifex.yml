@@ -4,7 +4,7 @@ git:
       file_format: TXT
       source_file_extension: txt
       source_language: zh-Hans
-      source_file_dir: praf/
+      source_file_dir: paok/
       translation_files_expression: 'translations/<lang>'
  
 
