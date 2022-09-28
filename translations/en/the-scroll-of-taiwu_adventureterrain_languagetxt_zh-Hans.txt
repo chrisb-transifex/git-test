@@ -1,0 +1,46 @@
+unknown
+Unknown land...
+mountain range
+The high mountains here are continuous and continuous, and the ridges are continuous.
+canyon
+The cliffs on both sides of the canyon stand horizontally and compete to rise, which is very majestic and majestic. The roads in the valley are steep and difficult for vehicles and horses to pass through.
+cave
+Naturally formed caves on the ground, cliffs, cliffs, etc. Among them, the corridors are narrow and only one person can pass sideways.
+rivers
+The water quality of the river is turbid, and there are many sediments.
+lake
+The water quality of the lake is clear and the water flow is gentle, and there are many living things such as aquatic plants, fish and shrimp growing in it.
+Tanzawa
+The water quality of Tanze is clear, narrow and deep, and the view is dark and secretive, with a small number of fish and shrimp growing in it.
+thatched cottage
+Ordinary thatched cottages are simply built with thatch, bamboo strips and grass mud, and are only used for shelter from wind and rain.
+rural
+A settlement formed by several families. Residents work at sunrise and rest at sunset, and make a living by farming, weaving, fishing and hunting.
+Zhenji
+Populous market. There are regular gatherings in the town, and there are frequent goods exchanges around, and there are many juggling shows and gathering places.
+sea of flowers
+Flowery meadows. In the meantime, hundreds of flowers are in full bloom, just like the ocean, the colors are colorful, and they change with time.
+forest
+Wooded land. There are trees and shrubs, lush branches and leaves, cool breeze, sweet fruit, high branches and perched, common birds and beasts foraging here.
+forest wild
+Scattered fields of grass and trees. The terrain is open and green, and there are often birds and beasts resting here.
+camp
+The place where the warriors were stationed. It is surrounded by fences, walls and other objects, and has a certain defensive power.
+temple
+Ordinary temples, mostly donated by nearby residents, enshrine statues of Buddha, Bodhisattva, Heavenly King, Arhat and other statues.
+Taoist temple
+The place where Taoist monks practice, or used to worship Taoist gods and ancestors, is mysterious, and is often visited by people to pray for blessings.
+monuments
+A building or address left over from ancient times. You can get a glimpse of the traces of the ancient people&#39;s existence, and you may also find a few rare antiques left behind.
+wilderness
+Desolate wilderness, open and open. Its land is barren, and a few plants, trees, birds and beasts struggle to grow here, and there are few people.
+ruins
+I don&#39;t know what happened here, the old buildings are now a pile of ruins and can no longer be used, only the crows hovering in the sky.
+desert
+There is no grass in the desert, and it is full of endless yellow sand. If you are not prepared, it is difficult to pass through it, but occasionally you can encounter an oasis with luscious water and grass.
+ancient tomb
+In addition to bones, hidden ancient tombs left by predecessors may also contain organs, secrets, and treasures.
+precipice
+The extremely steep and towering cliffs have almost no possibility of climbing. Occasionally, strange pines and cypresses grow on the cliffs, and the scenery is unique.
+abyss
+The abyss where the bottom cannot be seen, no one dares to look into it, so no one knows what kind of danger lies in it.
