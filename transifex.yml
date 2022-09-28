@@ -1,9 +1,9 @@
 git:
   filters:
     - filter_type: dir
-      file_format: JSON
-      source_file_extension: json
-      source_language: en
+      file_format: TXT
+      source_file_extension: txt
+      source_language: zh-Hans
       source_file_dir: test/
       translation_files_expression: 'translations/<lang>'
  
