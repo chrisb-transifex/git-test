@@ -1,7 +1,7 @@
 git:
   filters:
-    - filter_type: dir
+    - filter_type: file
       file_format: TXT
       source_language: en
-      source_file: paok/
-      translation_files_expression: 'NewΤranslations/*_<lang>'
+      source_file: paok/test1_en.txt
+      translation_files_expression: 'NewΤranslations/test1_<lang>.txt'
