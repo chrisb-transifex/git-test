@@ -4,4 +4,4 @@ git:
       file_format: TXT
       source_language: en
       source_file: paok/
-      translation_files_expression: 'NewΤranslations/test2_<lang>.txt'
+      translation_files_expression: 'NewΤranslations/*_<lang>'
