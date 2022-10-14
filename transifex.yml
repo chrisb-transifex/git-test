@@ -1,10 +1,9 @@
 git:
   filters:
-    - filter_type: dir
+    - filter_type: file
       file_format: TXT
-      source_file_extension: txt
-      source_language: zh-Hans
-      source_file_dir: paok/
-      translation_files_expression: 'translations/<lang>'
+      source_language: en
+      source_file: paok/test1.txt
+      translation_files_expression: 'Translations/test1_<lang>.txt'
  
 
