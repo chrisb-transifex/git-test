@@ -17,10 +17,4 @@ git:
       source_language: en
       source_file: paok/test3.txt
       translation_files_expression: 'Τranslations/test3_<lang>.txt'
- filters:
-    - filter_type: dir
-      file_format: TXT
-      source_language: en
-      source_file: paok/
-      translation_files_expression: 'translations/second/*_<lang>.txt'
 
