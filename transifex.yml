@@ -4,6 +4,6 @@ git:
       file_format: TXT
       source_language: en
       source_file: /paok/test1.txt
-      translation_files_expression: 'Translations/test1_<lang>.txt'
+      translation_files_expression: 'translations/test1_<lang>.txt'
  
 
