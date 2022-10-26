@@ -5,3 +5,10 @@ git:
       source_language: en
       source_file: paok/test1_en.txt
       translation_files_expression: 'NewΤranslations/test1_<lang>.txt'
+
+  filters:
+    - filter_type: file
+      file_format: STRINGS
+      source_language: en
+      source_file: test.strings
+      translation_files_expression: 'NewΤranslations/test1_<lang>.strings'
