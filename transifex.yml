@@ -1,13 +1,8 @@
 git:
   filters:
     - filter_type: file
-      file_format: TXT
+      file_format: PO
       source_language: en
-      source_file: paok/test1_en.txt
-      translation_files_expression: 'NewΤranslations/test1_<lang>.txt'
+      source_file: paok/sample.po
+      translation_files_expression: 'NewΤranslations/sample_<lang>.po'
       
-    - filter_type: file
-      file_format: STRINGS
-      source_language: en
-      source_file: test.strings
-      translation_files_expression: 'NewΤranslations/test1_<lang>.strings'
