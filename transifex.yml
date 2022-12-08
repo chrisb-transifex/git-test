@@ -3,6 +3,6 @@ git:
     - filter_type: file
       file_format: PO
       source_language: en
-      source_file: paok/sample2.pot
+      source_file: paok/sample2.po
       translation_files_expression: 'NewΤranslations/sample_<lang>.po'
       
