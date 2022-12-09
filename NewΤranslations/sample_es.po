@@ -13,4 +13,4 @@ msgid "test"
 msgstr "España "
 
 msgid "test2"
-msgstr "AÑOS \""
+msgstr "AÑOS"
