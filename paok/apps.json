@@ -3,7 +3,7 @@
     "new_patient_survey": {
       "birthDate": {
         "order": {
-          "string": 6
+          "string": "6"
         },
         "placeholder": {
           "day": {
@@ -25,7 +25,7 @@
       },
       "condition": {
         "order": {
-          "string": 5
+          "string": "5"
         },
         "placeholder": {
           "search": {
@@ -33,7 +33,7 @@
           }
         },
         "required": {
-          "string": true
+          "string": "true"
         },
         "title": {
           "string": "main condition"
@@ -41,10 +41,10 @@
       },
       "email": {
         "order": {
-          "string": 7
+          "string": "7"
         },
         "required": {
-          "string": true
+          "string": "true"
         },
         "title": {
           "string": "email"
@@ -52,10 +52,10 @@
       },
       "firstName": {
         "order": {
-          "string": 1
+          "string": "1"
         },
         "required": {
-          "string": true
+          "string": "true"
         },
         "title": {
           "string": "first name"
@@ -63,7 +63,7 @@
       },
       "gender": {
         "order": {
-          "string": 4
+          "string": "4"
         },
         "placeholder": {
           "select": {
@@ -76,7 +76,7 @@
       },
       "lastName": {
         "order": {
-          "string": 2
+          "string":"2"
         },
         "required": {
           "string": true
@@ -87,10 +87,10 @@
       },
       "phoneNumber": {
         "order": {
-          "string": 6
+          "string": "6"
         },
         "required": {
-          "string": true
+          "string": "true"
         },
         "title": {
           "string": "phone"
@@ -98,13 +98,13 @@
       },
       "relationship": {
         "order": {
-          "string": 3
+          "string": "3"
         },
         "placeholder": {
           "string": "select"
         },
         "required": {
-          "string": true
+          "string": "true"
         },
         "title": {
           "string": "relationship"
@@ -144,10 +144,10 @@
     },
     "user_question": {
       "MAX_INPUT_LENGTH": {
-        "string": 130
+        "string": "130"
       },
       "MAX_SCALE_INPUT_LENGTH": {
-        "string": 8
+        "string": "8"
       }
     }
   }
