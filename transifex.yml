@@ -1,8 +1,8 @@
 git:
   filters:
     - filter_type: file
-      file_format: PO
+      file_format: STRUCTURED JSON
       source_language: en
-      source_file: paok/sample2.po
-      translation_files_expression: 'NewΤranslations/sample_<lang>.po'
+      source_file: paok/apps.json
+      translation_files_expression: 'NewΤranslations/<lang>.po'
       
