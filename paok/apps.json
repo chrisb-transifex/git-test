@@ -17,7 +17,7 @@
           }
         },
         "required": {
-          "string": true
+          "string": "true"
         },
         "title": {
           "string": "date of birth"
@@ -79,7 +79,7 @@
           "string":"2"
         },
         "required": {
-          "string": true
+          "string": "true"
         },
         "title": {
           "string": "last name"
