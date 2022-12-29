@@ -6,6 +6,6 @@ git:
       source_file: apps.json
       translation_files_expression: 'Τranslations/test_<lang>.json'
       
-    settings:
+  settings:
       language_mapping:
-      he_IL: iw
+      he_IL: iw   
