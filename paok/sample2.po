@@ -1,6 +1,0 @@
-
-msgid "test"
-msgstr "test"
-
-msgid "test2"
-msgstr "test2"
