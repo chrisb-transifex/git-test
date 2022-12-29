@@ -1,0 +1,29 @@
+{
+  "authorization": {
+    "page_blocker": {
+      "beforeButtonText": {
+        "admin_only": {
+          "string": "New here?"
+        },
+        "approved_only": {
+          "string": "Any questions?"
+        },
+        "members_only": {
+          "string": "New here?"
+        },
+        "no_access": {
+          "string": "New here?"
+        },
+        "private_reports_only": {
+          "string": "New here?"
+        },
+        "professional_only": {
+          "string": "New here?"
+        }
+      },
+      "beforeJoinButton": {
+        "string": "Already a member?"
+      },
+    }
+  }
+}
