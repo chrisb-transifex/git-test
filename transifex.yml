@@ -3,6 +3,6 @@ git:
     - filter_type: file
       file_format: STRUCTURED JSON
       source_language: en
-      source_file: paok/apps-json--main.json
+      source_file: paok/apps.json
       translation_files_expression: 'NewΤranslations/<lang>.po'
       
