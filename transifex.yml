@@ -5,4 +5,9 @@ git:
       source_language: en
       source_file: apps.json
       translation_files_expression: 'Τranslations/test_<lang>.json'
-      
+   
+    - filter_type: file
+      file_format: TXT
+      source_language: en
+      source_file: test1.txt
+      translation_files_expression: 'Τranslations/test1_<lang>.txt'
