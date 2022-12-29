@@ -1,7 +1,7 @@
 git:
   filters:
     - filter_type: file
-      file_format: JSON
+      file_format: STRUCTURED_JSON
       source_language: en
       source_file: apps.json
       translation_files_expression: 'Τranslations/test_<lang>.json'
