@@ -3,33 +3,33 @@
     "page_blocker": {
       "beforeButtonText": {
         "admin_only": {
-          "string": "חדש פה?"
+          "string": "New here???????"
         },
         "approved_only": {
           "string": "יש שאלות?"
         },
         "members_only": {
-          "string": "חדש פה?"
+          "string": "New here?"
         },
         "no_access": {
-          "string": "חדש פה?"
+          "string": "New here?"
         },
         "private_reports_only": {
-          "string": "חדש פה?"
+          "string": "New here?"
         },
         "professional_only": {
-          "string": "חדש פה?"
+          "string": "New here?"
         }
       },
       "beforeJoinButton": {
-        "string": "כבר חבר?"
+        "string": "Already a member?"
       },
       "buttonPath": {
         "admin_only": {
           "string": "דף הבית"
         },
         "approved_only": {
-          "string": "איש קשר"
+          "string": "contact"
         },
         "members_only": {
           "string": "חיפוש_הרשמה"
@@ -41,7 +41,7 @@
           "string": "הדיווח שלי"
         },
         "professional_only": {
-          "string": "חזור"
+          "string": "back"
         }
       },
       "buttonText": {
@@ -49,7 +49,7 @@
           "string": "עבור לעמוד הבית"
         },
         "approved_only": {
-          "string": "צור קשר"
+          "string": "Contact us"
         },
         "members_only": {
           "string": "%defaultButtonText%"
@@ -66,19 +66,19 @@
       },
       "defaultButtonText": {
         "logged_in": {
-          "string": "עשה את הסקר עכשיו"
+          "string": "Take the survey now"
         },
         "logged_in_member": {
           "string": "סקר מלא"
         },
         "no_condition": {
-          "string": "מצא את מצבך"
+          "string": "Find your condition"
         },
         "unknown": {
-          "string": "הצטרפו והצטרפו לסקר"
+          "string": "Join & take the survey"
         },
         "unknown_mobile": {
-          "string": "לְהִצְטַרֵף"
+          "string": "Join"
         }
       },
       "eventsCategory": {
@@ -115,10 +115,10 @@
       },
       "loggedInTitleKey": {
         "admin_only": {
-          "string": "התוכן בקטע הזה חסום"
+          "string": "The content in this section is blocked"
         },
         "approved_only": {
-          "string": "היי %firstName%, הדוח שלך עדיין בבדיקה, נעדכן אותך ברגע שהוא יאושר."
+          "string": "Hi %firstName%, Your report is still under review, we’ll update you as soon as it’s approved."
         },
         "approved_only_anonymous": {
           "string": "הדוח שלך עדיין בבדיקה, נודיע לך ברגע שהוא יאושר"
@@ -152,19 +152,19 @@
           }
         },
         "no_access": {
-          "string": "התוכן בסעיף זה פתוח לחברים תורמים בלבד."
+          "string": "The content in this section is open to contributing members only."
         },
         "private_professional_only": {
           "string": "אזור זה פתוח כרגע רק לאנשים עם %condition%."
         },
         "private_reports_only": {
-          "string": "רק חברים שמשתפים את הדוח שלהם יכולים לראות דוחות של אחרים. הדוח שלך מוסתר כעת מהקהילה."
+          "string": "Only members who share their report can view reports by others. Your report is currently hidden from the community. "
         },
         "private_reports_only_map": {
           "string": "רק חברים שמשתפים את הדוח שלהם יכולים להציג דוחות אחרים"
         },
         "professional_only": {
-          "string": "היי %firstName%, אזור זה פתוח כרגע רק לאנשים עם %conditionName%."
+          "string": "Hi %firstName%, this area is currently only open to people with %conditionName%."
         },
         "under_review": {
           "string": "תוכן זה פתוח לחברים תורמים בלבד"
@@ -172,10 +172,10 @@
       },
       "loggedOutTitleKey": {
         "admin_only": {
-          "string": "התוכן בקטע הזה חסום"
+          "string": "The content in this section is blocked"
         },
         "approved_only": {
-          "string": "היי %firstName%, הדוח שלך עדיין בבדיקה, נעדכן אותך ברגע שהוא יאושר."
+          "string": "Hi %firstName%, Your report is still under review, we’ll update you as soon as it’s approved."
         },
         "members_only": {
           "pending": {
