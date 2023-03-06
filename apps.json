@@ -9,10 +9,10 @@
           "string": "New test here!!!!!!!"
         },
         "members_only": {
-          "string": "New here?"
+          "string": "New here5"
         },
         "no_access": {
-          "string": "New here?"
+          "string": "New here6"
         },
         "private_reports_only": {
           "string": "New here?"
