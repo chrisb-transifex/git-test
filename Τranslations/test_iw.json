@@ -3,16 +3,16 @@
     "page_blocker": {
       "beforeButtonText": {
         "admin_only": {
-          "string": "JAJAJA"
+          "string": "Again some testing8"
         },
         "approved_only": {
-          "string": "יש שאלות?"
+          "string": "New test here9"
         },
         "members_only": {
-          "string": "New here?"
+          "string": "New here5"
         },
         "no_access": {
-          "string": "New here?"
+          "string": "New here6"
         },
         "private_reports_only": {
           "string": "New here?"
