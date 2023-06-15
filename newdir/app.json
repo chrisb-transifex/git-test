@@ -3,7 +3,7 @@
     "page_blocker": {
       "beforeButtonText": {
         "admin_only": {
-          "string": "Again some testing8"
+          "string": "!!!!!!Again some testing8"
         },
         "approved_only": {
           "string": "New test here9"
