@@ -5,8 +5,4 @@ git:
       source_language: en
       source_file: newdir/app.json
       translation_files_expression: 'Τranslations/test_<lang>.json'
-    - filter_type: file
-      file_format: STRUCTURED_JSON
-      source_language: en
-      source_file: apps.json
-      translation_files_expression: 'Τranslations/test_<lang>.json'
+
