@@ -1,8 +1,13 @@
 git:
   filters:
     - filter_type: file
-      file_format: STRUCTURED_JSON
+      file_format: PHP
       source_language: en
-      source_file: newdir/app.json
-      translation_files_expression: 'Τranslations/test_<lang>.json'
+      source_file: newdir/website.php
+      translation_files_expression: 'Τranslations/test_<lang>.php'
+    - filter_type: file
+      file_format: PHP
+      source_language: en
+      source_file: newdir/admin.php
+      translation_files_expression: 'Τranslations/test_<lang>.php'
 
