@@ -3859,3 +3859,4 @@ A Speaker or Moderator are still required to start the live session within Event
     'badge.side_remove_verso_badge_info' => 'Enabling this option will automatically empty the back of the badge.',
     'eventcreate.visibility_mode_test' => 'This event is a test',
 ];
+?>
