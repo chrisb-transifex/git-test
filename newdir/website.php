@@ -1,6 +1,6 @@
 <?php
 
-return [
+$LANG = array (
 
     'accept' => 'Accept',
     'theme_sg_markets_add_to_calendar' => 'Add to calendar',
@@ -541,4 +541,5 @@ return [
     'shared.no' => 'No',
     '403.code' => 'CODE: 403',
     'guest_has_registered' => 'This guest is already registered.'
-];
+);
+?>
