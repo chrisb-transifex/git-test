@@ -1,12 +1,12 @@
 git:
   filters:
     - filter_type: file
-      file_format: 'PHP'
+      file_format: php
       source_language: en
       source_file: newdir/website.php
-      translation_files_expression: 'Τranslations/test_<lang>.php'
+      translation_files_expression: 'Τranslations/test1_<lang>.php'
     - filter_type: file
-      file_format: 'PHP'
+      file_format: php
       source_language: en
       source_file: newdir/admin.php
       translation_files_expression: 'Τranslations/test_<lang>.php'
