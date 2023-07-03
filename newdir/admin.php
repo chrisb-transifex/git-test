@@ -3857,6 +3857,6 @@ A Speaker or Moderator are still required to start the live session within Event
     'website_admin.content.registration_group_visibility' => 'This registration form will only be displayed in the menu, to participants who are part of the groups to which it is linked',
     'website_admin.content.survey_group_visibility' => 'This survey will only be displayed in the menu, to participants who are part of the groups to which it is linked',
     'badge.side_remove_verso_badge_info' => 'Enabling this option will automatically empty the back of the badge.',
-    'eventcreate.visibility_mode_test' => 'This event is a test',
+    'eventcreate.visibility_mode_test' => 'This event is a test'
 ];
 ?>
