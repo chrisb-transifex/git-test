@@ -1,6 +1,6 @@
 <?php
 
-return [
+$lang = array (
     '403.contact' => 'Send us a message',
     '403.dashboard' => 'Back to dashboard',
     '403.description' => 'Sorry, we understood your request but unfortunately you do not have the rights to access this resource.',
@@ -3858,5 +3858,5 @@ A Speaker or Moderator are still required to start the live session within Event
     'website_admin.content.survey_group_visibility' => 'This survey will only be displayed in the menu, to participants who are part of the groups to which it is linked',
     'badge.side_remove_verso_badge_info' => 'Enabling this option will automatically empty the back of the badge.',
     'eventcreate.visibility_mode_test' => 'This event is a test'
-];
+    )
 ?>
