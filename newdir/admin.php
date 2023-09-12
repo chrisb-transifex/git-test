@@ -1,6 +1,7 @@
 <?php
 
 $lang = array (
+    '403.testtest' => 'This is a test',
     '403.contact' => 'Send us a message',
     '403.dashboard' => 'Back to dashboard',
     '403.description' => 'Sorry, we understood your request but unfortunately you do not have the rights to access this resource.',
