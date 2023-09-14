@@ -2,8 +2,8 @@
 
 $LANG = array (
 
-    'accept' => 'Accept',
-    'theme_sg_markets_add_to_calendar' => 'Add to calendar',
+    'accept' => 'mytest',
+    'theme_sg_markets_add_to_calendar' => 'mytesting',
     'agendas' => 'Agenda',
     'aisle' => 'Aisle',
     'alreadyaccount1' => 'You already have an account.',
