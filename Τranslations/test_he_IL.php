@@ -1,7 +1,7 @@
 <?php
 
 $lang = array (
-    '403.testtest' => 'tatatatata',
+    '403.testtest' => 'tatatatata123',
     '403.contact' => 'שלח לנו הודעה',
     '403.dashboard' => 'חזרה ללוח המחוונים',
     '403.description' => 'מצטערים, הבנו את בקשתך אך למרבה הצער אין לך את הזכויות לגשת למשאב זה.',
