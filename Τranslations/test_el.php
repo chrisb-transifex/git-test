@@ -2,9 +2,9 @@
 
 $lang = array (
     '403.testtest' => 'Αυτό είναι ένα τεστ',
-    '403.contact' => 'sdfsdfsf',
-    '403.dashboard' => 'Back to dashboard',
-    '403.description' => 'Sorry, we understood your request but unfortunately you do not have the rights to access this resource.',
+    '403.contact' => '11111',
+    '403.dashboard' => '2222222',
+    '403.description' => '333333333.',
     '403.help_center' => 'Help Center',
     '403.or' => 'or',
     '403.title' => 'Access forbidden',
