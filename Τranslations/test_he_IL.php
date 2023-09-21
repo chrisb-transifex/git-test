@@ -2,9 +2,9 @@
 
 $lang = array (
     '403.testtest' => 'tstststs',
-    '403.contact' => 'שלח לנו הודעה',
+    '403.contact' => 'tatatatat',
     '403.dashboard' => 'tititititit',
-    '403.description' => 'מצטערים, הבנו את בקשתך אך למרבה הצער אין לך את הזכויות לגשת למשאב זה.',
+    '403.description' => 'tttttttt',
     '403.help_center' => 'מרכז העזרה',
     '403.or' => 'או',
     '403.title' => 'גישה אסורה',
