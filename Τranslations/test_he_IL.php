@@ -2,8 +2,8 @@
 
 $lang = array (
     '403.testtest' => 'tstststs',
-    '403.contact' => 'tatatatat',
-    '403.dashboard' => 'tititititit',
+    '403.contact' => '123',
+    '403.dashboard' => '1234',
     '403.description' => 'tttttttt',
     '403.help_center' => 'מרכז העזרה',
     '403.or' => 'או',
