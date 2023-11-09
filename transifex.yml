@@ -3,5 +3,5 @@ git:
     - filter_type: file
       file_format: XLSX
       source_language: en_US
-      source_file: newdir/test(1).xlsx
+      source_file: newdir/test.xlsx
       translation_files_expression: 'Τranslations/test1_<lang>.xlsx'
