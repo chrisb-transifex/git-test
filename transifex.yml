@@ -1,7 +1,7 @@
 git:
   filters:
     - filter_type: file
-      file_format: PHP_ARRAY
+      file_format: EXCEL
       source_language: en
-      source_file: newdir/admin.php
-      translation_files_expression: 'Τranslations/test_<lang>.php'
+      source_file: newdir/test1.xlsx
+      translation_files_expression: 'Τranslations/test1_<lang>.xlsx'
