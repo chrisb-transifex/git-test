@@ -1,7 +1,7 @@
 {
   "seoDescriptionBySiteType": {
-    "RESTORATION": "{{siteName}} is a nature restoration site in {{country}}.",
-    "CONSERVATION": "{{siteName}} is a nature conservation site in {{country}}.",
+    "RESTORATION": "This is my test for source",
+    "CONSERVATION": "Second test",
     "LANDSCAPE": "{{siteName}} is a landscape in {{country}}.",
     "AREA_OF_INTEREST": "{{siteName}} is an area of interest in {{country}}."
   },
