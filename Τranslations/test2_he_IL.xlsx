@@ -1,6 +1,6 @@
 {
   "seoDescriptionBySiteType": {
-    "RESTORATION": "{{siteName}} הוא אתר שיקום טבע ב {{country}}.",
+    "RESTORATION": "זה המבחן שלי למקור",
     "CONSERVATION": "{{siteName}} הוא אתר שימור טבע ב {{country}}.",
     "LANDSCAPE": "{{siteName}} הוא נוף ב {{country}}.",
     "AREA_OF_INTEREST": "{{siteName}} הוא תחום עניין ב- {{country}}."
