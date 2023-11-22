@@ -1,6 +1,6 @@
 {
   "seoDescriptionBySiteType": {
-    "RESTORATION": "{{siteName}} είναι ένας χώρος αποκατάστασης της φύσης στο {{country}}.",
+    "RESTORATION": "Αυτό είναι το τεστ μου για την πηγή",
     "CONSERVATION": "{{siteName}} είναι ένας χώρος διατήρησης της φύσης στο {{country}}.",
     "LANDSCAPE": "{{siteName}} είναι ένα τοπίο στο {{country}}.",
     "AREA_OF_INTEREST": "{{siteName}} είναι ένας τομέας ενδιαφέροντος για {{country}}."
