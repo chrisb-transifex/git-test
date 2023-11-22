@@ -2,7 +2,7 @@
   "seoDescriptionBySiteType": {
     "RESTORATION": "This is my test for source",
     "CONSERVATION": "Second test",
-    "LANDSCAPE": "Third test",
+    "LANDSCAPE": "fgdfgdfgdf",
     "AREA_OF_INTEREST": "{{siteName}} είναι ένας τομέας ενδιαφέροντος για {{country}}."
   },
   "seoDescriptionAppendix": "Εξερευνήστε όλες τις πληροφορίες σχετικά με αυτό το έργο στο Restor.",
