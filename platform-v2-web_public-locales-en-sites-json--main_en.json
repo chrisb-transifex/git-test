@@ -2,7 +2,7 @@
   "seoDescriptionBySiteType": {
     "RESTORATION": "This is my test for source",
     "CONSERVATION": "Second test",
-    "LANDSCAPE": "{{siteName}} is a landscape in {{country}}.",
+    "LANDSCAPE": "Third test",
     "AREA_OF_INTEREST": "{{siteName}} is an area of interest in {{country}}."
   },
   "seoDescriptionAppendix": "Explore all info about this project on Restor.",
