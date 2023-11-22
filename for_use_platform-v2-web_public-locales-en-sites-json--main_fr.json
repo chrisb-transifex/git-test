@@ -1,0 +1,73 @@
+{
+  "seoDescriptionBySiteType": {
+    "RESTORATION": "{{siteName}} est un site de restauration de la nature en {{country}}.",
+    "CONSERVATION": "{{siteName}} est un site de conservation de la nature en {{country}}.",
+    "LANDSCAPE": "{{siteName}} est un paysage de {{country}}.",
+    "AREA_OF_INTEREST": "{{siteName}} est une zone d'intérêt en {{country}}."
+  },
+  "seoDescriptionAppendix": "Découvrez toutes les informations sur ce projet sur Restor.",
+  "staticMap": {
+    "alt": "Polygone de {{siteName}} sur la carte"
+  },
+  "landTenure": "Check land tenure",
+  "addToCollection": {
+    "title": "Ajouter un site à la collection",
+    "createNewCollection": "Create new collection",
+    "buttonLabel": "Sauvegarder",
+    "text": "Sélectionnez les collections dans lesquelles vous souhaitez que ce site apparaisse.",
+    "feedback": {
+      "update": {
+        "success": "Changements sauvegardés."
+      }
+    },
+    "makeSitePublic": {
+      "paragraph1": "Ce site est défini sur privé et ne peut pas faire partie d'une collection.",
+      "paragraph2": "Souhaitez-vous rendre ce site public ?",
+      "buttonLabel": "Oui, défini sur public",
+      "feedback": {
+        "success": "Le site est maintenant public.",
+        "error": "Impossible de rendre le site public. Veuillez réessayer plus tard."
+      }
+    },
+    "userHasNoCollections": {
+      "description": "Vous n'avez pas encore de collections.",
+      "linkLabel": "Créez votre première collection"
+    }
+  },
+  "actions": {
+    "title": "Actions",
+    "complete": "Profil complet du site",
+    "addDescription": "Ajouter une description",
+    "edit": "Editer le site",
+    "editVisibility": "Définir le site comme public",
+    "photos": {
+      "add": "Ajouter des photos",
+      "edit": "Ajouter des photos"
+    },
+    "members": {
+      "linkLabel": "Ajouter des membres"
+    },
+    "organizations": {
+      "linkLabel": "Lien vers l'organisation"
+    },
+    "leave": "Quitter le site",
+    "delete": {
+      "label": "Supprimer le site",
+      "text": "Avertissement : La suppression de ce site signifie que toutes les connexions avec les organisations, les utilisateurs et les collectes seront définitivement supprimées.",
+      "confirmDialog": {
+        "text": "Êtes-vous sûr de vouloir supprimer ce site ? Toutes les connexions avec les utilisateurs, l'organisation et les collectes seront supprimées."
+      },
+      "feedback": {
+        "success": "Site supprimé."
+      }
+    },
+    "share": {
+      "text": "Découvrez un site {{siteType}} que j'ai trouvé sur Restor: {{siteName}}",
+      "embed": {
+        "description1": "L'intégration d'un site implique de copier le morceau de code ci-dessous et de l'insérer dans votre propre page Web. Cela vous permet d'afficher votre site Restor dans votre propre page Web. <helpLink> En savoir plus </helpLink> .",
+        "description2": "Assurez-vous que votre site est défini sur public. Un site privé ne peut pas être intégré.",
+        "label": "Code intégré"
+      }
+    }
+  }
+}
