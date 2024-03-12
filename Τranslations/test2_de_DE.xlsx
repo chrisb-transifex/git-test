@@ -3,7 +3,7 @@
     "RESTORATION": "test3",
     "CONSERVATION": "test2",
     "LANDSCAPE": "Test1",
-    "AREA_OF_INTEREST": "{{siteName}} ist ein Interessengebiet für {{country}}."
+    "AREA_OF_INTEREST": "{{siteName}} ist ein Interessengebiet für {{country}}. added test"
   },
   "seoDescriptionAppendix": "Entdecken Sie alle Informationen zu diesem Projekt auf Restor.",
   "staticMap": {
