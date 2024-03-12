@@ -1,7 +1,7 @@
 {
   "seoDescriptionBySiteType": {
-    "RESTORATION": "test1",
-    "CONSERVATION": "test2",
+    "RESTORATION": "test1 new addition",
+    "CONSERVATION": "test2 new addition",
     "LANDSCAPE": "test3",
     "AREA_OF_INTEREST": "{{siteName}} Είναι ένας τομέας ενδιαφέροντος για {{country}}. added test"
   },
