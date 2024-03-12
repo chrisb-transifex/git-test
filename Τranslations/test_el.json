@@ -1,9 +1,9 @@
 {
   "seoDescriptionBySiteType": {
-    "RESTORATION": "test1 new addition",
-    "CONSERVATION": "test2 new addition",
+    "RESTORATION": "test1 !!!!!!",
+    "CONSERVATION": "test2!!!!",
     "LANDSCAPE": "Τρίτη δοκιμή xaxaxaxaxax",
-    "AREA_OF_INTEREST": "{{siteName}} Είναι ένας τομέας ενδιαφέροντος για {{country}}. added test"
+    "AREA_OF_INTEREST": "{{siteName}} Είναι ένας τομέας ενδιαφέροντος για {{country}}."
   },
   "seoDescriptionAppendix": "Εξερευνήστε όλες τις πληροφορίες σχετικά με αυτό το έργο στο Restor.",
   "staticMap": {
