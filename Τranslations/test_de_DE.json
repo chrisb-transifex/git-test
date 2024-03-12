@@ -1,0 +1,73 @@
+{
+  "seoDescriptionBySiteType": {
+    "RESTORATION": "test3 new addition",
+    "CONSERVATION": "test2",
+    "LANDSCAPE": "Dritter Test xaxaxaxaxaxax",
+    "AREA_OF_INTEREST": "{{siteName}} ist ein Interessengebiet für {{country}}. added test"
+  },
+  "seoDescriptionAppendix": "Entdecken Sie alle Informationen zu diesem Projekt auf Restor.",
+  "staticMap": {
+    "alt": "Polygon von {{siteName}} auf der Karte"
+  },
+  "landTenure": "Überprüfen Sie den Landbesitz",
+  "addToCollection": {
+    "title": "Website zur Sammlung hinzufügen",
+    "createNewCollection": "Neue Sammlung erstellen",
+    "buttonLabel": "Speichern",
+    "text": "Wählen Sie die Sammlungen aus, in denen diese Website angezeigt werden soll.",
+    "feedback": {
+      "update": {
+        "success": "Änderungen wurden gespeichert."
+      }
+    },
+    "makeSitePublic": {
+      "paragraph1": "Diese Seite ist auf privat gesetzt und kann nicht Teil einer Sammlung sein.",
+      "paragraph2": "Möchten Sie diese Seite veröffentlichen?",
+      "buttonLabel": "Ja, auf öffentlich gestellt",
+      "feedback": {
+        "success": "Die Seite ist jetzt öffentlich.",
+        "error": "Website konnte nicht veröffentlicht werden. Bitte versuchen Sie es später erneut."
+      }
+    },
+    "userHasNoCollections": {
+      "description": "Du hast noch keine Sammlungen.",
+      "linkLabel": "Erstelle deine erste Kollektion"
+    }
+  },
+  "actions": {
+    "title": "Aktionen",
+    "complete": "Vollständiges Seitenprofil",
+    "addDescription": "Beschreibung hinzufügen",
+    "edit": "Seite bearbeiten",
+    "editVisibility": "Seite auf öffentlich setzen",
+    "photos": {
+      "add": "Fotos hinzufügen",
+      "edit": "Fotos bearbeiten"
+    },
+    "members": {
+      "linkLabel": "Mitglieder hinzufügen"
+    },
+    "organizations": {
+      "linkLabel": "Link zur Organisation"
+    },
+    "leave": "Seite verlassen",
+    "delete": {
+      "label": "Seite löschen",
+      "text": "Warnung: Wenn Sie diese Website löschen, werden alle Verbindungen zu Organisationen, Benutzern und Sammlungen dauerhaft entfernt.",
+      "confirmDialog": {
+        "text": "Bist du sicher, dass du diese Seite löschen möchtest? Alle Verbindungen zu Organisationen, Benutzern und Sammlungen werden dauerhaft entfernt."
+      },
+      "feedback": {
+        "success": "Seite gelöscht."
+      }
+    },
+    "share": {
+      "text": "Schauen Sie sich eine an {{siteType}} Seite, die ich auf Restor gefunden habe: {{siteName}}",
+      "embed": {
+        "description1": "Beim Einbetten einer Website wird der unten abgebildete Code kopiert und in Ihre eigene Webseite eingefügt. Auf diese Weise können Sie Ihre Restor-Website auf Ihrer eigenen Webseite anzeigen. <helpLink>Erfahre mehr</helpLink>.",
+        "description2": "Stellen Sie sicher, dass Ihre Website öffentlich ist. Eine private Seite kann nicht eingebettet werden.",
+        "label": "Code einbetten"
+      }
+    }
+  }
+}
