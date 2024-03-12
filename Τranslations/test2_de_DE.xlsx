@@ -1,7 +1,7 @@
 {
   "seoDescriptionBySiteType": {
     "RESTORATION": "Das ist mein Quelltest!!!!!!!!!!!",
-    "CONSERVATION": "Second test",
+    "CONSERVATION": "Zweiter Test",
     "LANDSCAPE": "Third test xaxaxaxaxaxax",
     "AREA_OF_INTEREST": "{{siteName}} is an area of interest in {{country}}."
   },
