@@ -2,71 +2,71 @@
   "seoDescriptionBySiteType": {
     "RESTORATION": "Das ist mein Quelltest!!!!!!!!!!!",
     "CONSERVATION": "Zweiter Test",
-    "LANDSCAPE": "Third test xaxaxaxaxaxax",
-    "AREA_OF_INTEREST": "{{siteName}} is an area of interest in {{country}}."
+    "LANDSCAPE": "Dritter Test xaxaxaxaxaxax",
+    "AREA_OF_INTEREST": "{{siteName}} ist ein Interessengebiet für {{country}}."
   },
-  "seoDescriptionAppendix": "Explore all info about this project on Restor.",
+  "seoDescriptionAppendix": "Entdecken Sie alle Informationen zu diesem Projekt auf Restor.",
   "staticMap": {
-    "alt": "Polygon of {{siteName}} on map"
+    "alt": "Polygon von {{siteName}} auf der Karte"
   },
-  "landTenure": "Check land tenure",
+  "landTenure": "Überprüfen Sie den Landbesitz",
   "addToCollection": {
-    "title": "Add site to collection",
-    "createNewCollection": "Create new collection",
-    "buttonLabel": "Save",
-    "text": "Select the collections in which you want this site to appear.",
+    "title": "Website zur Sammlung hinzufügen",
+    "createNewCollection": "Neue Sammlung erstellen",
+    "buttonLabel": "Speichern",
+    "text": "Wählen Sie die Sammlungen aus, in denen diese Website angezeigt werden soll.",
     "feedback": {
       "update": {
-        "success": "Changes saved."
+        "success": "Änderungen wurden gespeichert."
       }
     },
     "makeSitePublic": {
-      "paragraph1": "This is site is set on private and can’t be part of a collection.",
-      "paragraph2": "Would you like to make this site public?",
-      "buttonLabel": "Yes, set to public",
+      "paragraph1": "Diese Seite ist auf privat gesetzt und kann nicht Teil einer Sammlung sein.",
+      "paragraph2": "Möchten Sie diese Seite veröffentlichen?",
+      "buttonLabel": "Ja, auf öffentlich gestellt",
       "feedback": {
-        "success": "Site is now public.",
-        "error": "Failed to make site public. Please try again later."
+        "success": "Die Seite ist jetzt öffentlich.",
+        "error": "Website konnte nicht veröffentlicht werden. Bitte versuchen Sie es später erneut."
       }
     },
     "userHasNoCollections": {
-      "description": "You don’t have any collections yet.",
-      "linkLabel": "Create your first collection"
+      "description": "Du hast noch keine Sammlungen.",
+      "linkLabel": "Erstelle deine erste Kollektion"
     }
   },
   "actions": {
-    "title": "Actions",
-    "complete": "Complete site profile",
-    "addDescription": "Add description",
-    "edit": "Edit site",
-    "editVisibility": "Set site to public",
+    "title": "Aktionen",
+    "complete": "Vollständiges Seitenprofil",
+    "addDescription": "Beschreibung hinzufügen",
+    "edit": "Seite bearbeiten",
+    "editVisibility": "Seite auf öffentlich setzen",
     "photos": {
-      "add": "Add photos",
-      "edit": "Edit photos"
+      "add": "Fotos hinzufügen",
+      "edit": "Fotos bearbeiten"
     },
     "members": {
-      "linkLabel": "Add members"
+      "linkLabel": "Mitglieder hinzufügen"
     },
     "organizations": {
-      "linkLabel": "Link to organization"
+      "linkLabel": "Link zur Organisation"
     },
-    "leave": "Leave site",
+    "leave": "Seite verlassen",
     "delete": {
-      "label": "Delete site",
-      "text": "Warning: Deleting this site means that all connections with organizations, users and collections will be permanently removed.",
+      "label": "Seite löschen",
+      "text": "Warnung: Wenn Sie diese Website löschen, werden alle Verbindungen zu Organisationen, Benutzern und Sammlungen dauerhaft entfernt.",
       "confirmDialog": {
-        "text": "Are you sure you want to delete this site? All connections with organizations, users and collections will be permanently removed."
+        "text": "Bist du sicher, dass du diese Seite löschen möchtest? Alle Verbindungen zu Organisationen, Benutzern und Sammlungen werden dauerhaft entfernt."
       },
       "feedback": {
-        "success": "Site deleted."
+        "success": "Seite gelöscht."
       }
     },
     "share": {
-      "text": "Check out a {{siteType}} site I found on Restor: {{siteName}}",
+      "text": "Schauen Sie sich eine an {{siteType}} Seite, die ich auf Restor gefunden habe: {{siteName}}",
       "embed": {
-        "description1": "Embedding a site involves copying the piece of code shown below and inserting it into your own web page. This allows you to display your Restor site within your own web page. <helpLink>Learn more</helpLink>.",
-        "description2": "Make sure your site is set to public. A private site can not be embedded.",
-        "label": "Embed code"
+        "description1": "Beim Einbetten einer Website wird der unten abgebildete Code kopiert und in Ihre eigene Webseite eingefügt. Auf diese Weise können Sie Ihre Restor-Website auf Ihrer eigenen Webseite anzeigen. <helpLink>Erfahre mehr</helpLink>.",
+        "description2": "Stellen Sie sicher, dass Ihre Website öffentlich ist. Eine private Seite kann nicht eingebettet werden.",
+        "label": "Code einbetten"
       }
     }
   }
