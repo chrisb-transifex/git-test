@@ -1,9 +1,9 @@
 {
   "seoDescriptionBySiteType": {
-    "RESTORATION": "Test 1!!!!",
-    "CONSERVATION": "Test 2",
+    "RESTORATION": "Test11!!!!!!",
+    "CONSERVATION": "Test 2!!!!",
     "LANDSCAPE": "Tercera prueba: xaxaxaxaxaxax",
-    "AREA_OF_INTEREST": "{{siteName}} es un área de interés en {{country}}. Added test"
+    "AREA_OF_INTEREST": "new test"
   },
   "seoDescriptionAppendix": "Explora toda la información sobre este proyecto en Restor.",
   "staticMap": {
