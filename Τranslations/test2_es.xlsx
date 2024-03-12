@@ -1,0 +1,73 @@
+{
+  "seoDescriptionBySiteType": {
+    "RESTORATION": "¡Esta es mi prueba para la fuente!!!!!!!!!!!",
+    "CONSERVATION": "Segunda prueba",
+    "LANDSCAPE": "Tercera prueba: xaxaxaxaxaxax",
+    "AREA_OF_INTEREST": "{{siteName}} es un área de interés en {{country}}."
+  },
+  "seoDescriptionAppendix": "Explora toda la información sobre este proyecto en Restor.",
+  "staticMap": {
+    "alt": "Polígono de {{siteName}} en el mapa"
+  },
+  "landTenure": "Verifique la tenencia de la tierra",
+  "addToCollection": {
+    "title": "Agregar sitio a la colección",
+    "createNewCollection": "Crear nueva colección",
+    "buttonLabel": "Guardar",
+    "text": "Seleccione las colecciones en las que desea que aparezca este sitio.",
+    "feedback": {
+      "update": {
+        "success": "Cambios guardados."
+      }
+    },
+    "makeSitePublic": {
+      "paragraph1": "Este sitio está configurado como privado y no puede ser parte de una colección.",
+      "paragraph2": "¿Quieres hacer público este sitio?",
+      "buttonLabel": "Sí, configurado como público",
+      "feedback": {
+        "success": "El sitio ahora es público.",
+        "error": "No se pudo hacer público el sitio. Vuelve a intentarlo más tarde."
+      }
+    },
+    "userHasNoCollections": {
+      "description": "Aún no tienes ninguna colección.",
+      "linkLabel": "Crea tu primera colección"
+    }
+  },
+  "actions": {
+    "title": "Acciones",
+    "complete": "Perfil completo del sitio",
+    "addDescription": "Añadir descripción",
+    "edit": "Editar sitio",
+    "editVisibility": "Establecer el sitio como público",
+    "photos": {
+      "add": "Añadir fotos",
+      "edit": "Editar fotos"
+    },
+    "members": {
+      "linkLabel": "Añadir miembros"
+    },
+    "organizations": {
+      "linkLabel": "Enlace a la organización"
+    },
+    "leave": "Salir del sitio",
+    "delete": {
+      "label": "Eliminar sitio",
+      "text": "Advertencia: Al eliminar este sitio, se eliminarán permanentemente todas las conexiones con organizaciones, usuarios y colecciones.",
+      "confirmDialog": {
+        "text": "¿Está seguro de que desea eliminar este sitio? Todas las conexiones con organizaciones, usuarios y colecciones se eliminarán de forma permanente."
+      },
+      "feedback": {
+        "success": "Sitio eliminado."
+      }
+    },
+    "share": {
+      "text": "Echa un vistazo a {{siteType}} sitio que encontré en Restor: {{siteName}}",
+      "embed": {
+        "description1": "Incrustar un sitio implica copiar el fragmento de código que se muestra a continuación e insertarlo en tu propia página web. Esto le permite mostrar su sitio de Restor dentro de su propia página web. <helpLink>Obtenga más información</helpLink>.",
+        "description2": "Asegúrate de que tu sitio esté configurado como público. No se puede incrustar un sitio privado.",
+        "label": "Código de incrustación"
+      }
+    }
+  }
+}
