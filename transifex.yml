@@ -5,7 +5,7 @@ git:
        source_language: en_US
        source_file: apps.json
        translation_files_expression: 'Τranslations/test2_<lang>.json'
-    - filter_type: file
+     - filter_type: file
        file_format: KEYVALUEJSON
        source_language: en_US
        source_file: platform-v2-web_public-locales-en-sites-json--main_en.json
