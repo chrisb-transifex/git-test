@@ -1,9 +1,9 @@
 {
   "seoDescriptionBySiteType": {
     "RESTORATION": "Αυτή είναι η δοκιμή μου για την πηγή!!!!!!!!!!",
-    "CONSERVATION": "Second test",
-    "LANDSCAPE": "Third test xaxaxaxaxaxax",
-    "AREA_OF_INTEREST": "{{siteName}} είναι ένας τομέας ενδιαφέροντος για {{country}}."
+    "CONSERVATION": "Δεύτερη δοκιμή",
+    "LANDSCAPE": "Τρίτη δοκιμή xaxaxaxaxax",
+    "AREA_OF_INTEREST": "{{siteName}} Είναι ένας τομέας ενδιαφέροντος για {{country}}."
   },
   "seoDescriptionAppendix": "Εξερευνήστε όλες τις πληροφορίες σχετικά με αυτό το έργο στο Restor.",
   "staticMap": {
