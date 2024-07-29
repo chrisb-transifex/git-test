@@ -3,10 +3,10 @@
     "page_blocker": {
       "beforeButtonText": {
         "admin_only": {
-          "string": "Updated string!"
+          "string": "Updated string!2"
         },
         "approved_only": {
-          "string": "New test here9"
+          "string": "Updated string 3!"
         },
         "members_only": {
           "string": "New here5"
